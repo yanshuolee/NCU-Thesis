@@ -1,0 +1,132 @@
+\documentclass[noframe,oneside]{ncuthesisCJK}
+\usepackage{makeidx}             % for index
+\usepackage{layout}
+\usepackage[]{todonotes}
+
+\usepackage{cite}
+
+\usepackage{graphicx}
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{amsfonts}
+\usepackage{epsfig}
+\usepackage{subcaption}
+\usepackage{indentfirst}
+\usepackage{color}
+%\usepackage{txfonts}
+%%%%%%%%%%
+\usepackage{esvect}
+\usepackage{epstopdf}
+
+%\usepackage{algorithmic}
+\usepackage[normalem]{ulem}
+\usepackage{mathtools}
+%\usepackage{txfonts}
+\captionsetup{compatibility=false}
+\graphicspath{{./figures/}}
+%\newtheorem{definition}{Definition}
+%\newtheorem{lemma}{Lemma}
+\makeatletter
+\renewcommand*{\@opargbegintheorem}[3]{\trivlist
+      \item[\hskip \labelsep{\bfseries #1\ #2}] \textbf{(#3)}\ \itshape}
+\makeatother
+\usepackage{graphicx}
+\usepackage{CJKutf8}
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{amsthm}
+\usepackage{amsfonts}
+\usepackage{epsfig}
+\usepackage{subcaption}
+\usepackage{indentfirst}
+\usepackage{xcolor}
+\usepackage{esvect}
+\usepackage{epstopdf}
+\usepackage[normalem]{ulem}
+\usepackage{lipsum}
+\usepackage{subcaption}
+%\usepackage{gensymb}
+
+\usepackage{multirow}
+\usepackage{float}
+\usepackage[ruled,lined]{algorithm2e}
+\usepackage{algcompatible}
+
+\usepackage[normalem]{ulem}
+\usepackage{tabularx}
+\usepackage{float}
+\usepackage{caption,subcaption}
+\captionsetup{compatibility=false}
+\SetKwInOut{Parameter}{Parameters}
+\SetKwInOut{INIT}{Initialization}
+\usepackage{makecell}
+\usepackage{afterpage}
+
+\dept{數學研究所}
+\degree{碩士}
+\title{Multi-robot Search in 3D Environments using Submodularity with Matroid Intersection Constraints}
+\subtitle{}
+\author{李晏碩}
+\authoren{Yan-Shuo, Li}
+\mprof{曾國師}
+\mprofen{Kuo-Shih, Tseng}
+\sprof{}
+\degreedate{中~華~民~國~一百一十三~年~六~月}
+\copyyear{2024}
+\def\XeLaTeX{Xe\LaTeX}   % Only in CJK
+\input{mypreamble}             % 自訂巨集多 收起來
+                                            % 自訂巨集少 直接寫出
+
+%\includeonly{chapter2}      % 單獨編譯此檔
+\makeindex                           % 告訴\LaTeX要做索引
+\begin{document}                 % 宣告結束   本文開始
+\begin{CJK}{UTF8}{bkai}   %----------------------
+\CJKhorz
+\fontsize{14pt}{20pt}\selectfont % 可調間距以便閱讀%
+\pagenumbering{alph}               % to cheat latex
+\maketitle                       % 論文封面
+\setboolean{printcopyright}{true}
+\maketitle                       % 書名面
+\cleardoublepage
+\addtocontents{toc}{~\hfill\textbf{Page}\par}
+\includepdf[pages=-,scale=0.9]{4.pdf}
+\includepdf[pages=-,scale=0.9]{3.pdf}
+\includepdf[pages=-,scale=0.9]{1.pdf} % 插入其他表格
+\includepdf[pages=-,scale=0.9]{2.pdf} % 插入其他表格
+%\includepdf[pages=-,scale=0.9]{myfile.pdf} % 插入其他表格
+                                 % \frontmatter
+\pagenumbering{roman}          % 羅馬數字編頁
+\include{abstractcn}
+\include{abstracten}                 % 摘要
+%\include{acknowledge}            % 謝誌
+\include{lists}
+\include{symbol}                     % 符號說明     symbols 環境
+\cleardoublepage
+
+\pagenumbering{arabic}           % 阿拉伯數字編頁
+                                 % \mainmatter
+\include{chapter1}               % 第一章
+\include{chapter2}               % 第二章
+\include{chapter3}               % 第三章
+\include{chapter4}               % 第四章
+\include{chapter5}               % 第五章
+\include{chapter6}               % 第六章
+\include{chapter7}               % 第七章
+                                 % \backmatter
+
+%%%%%%%%%%%%% test
+%\include{chapter_test}
+%%%%%%%%%%%%%
+
+\include{bibli}                      % 文獻      (自行寫入)
+%\include{appendix}               % 若有需要 使用appendA/B環境
+
+
+\clearpage
+\end{CJK}
+%---------------------
+\clearpage
+%\bookbone                        % 短書脊製作
+%{\centering\layout}
+
+\end{document}                   % 本文結束

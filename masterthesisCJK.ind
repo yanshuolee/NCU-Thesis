@@ -1,0 +1,14 @@
+\begin{theindex}
+
+  \item \LaTeX
+    \subitem \textbackslash addcontentline, \hyperpage{viii}
+    \subitem \textbackslash hspace, \hyperpage{viii}
+    \subitem \textbackslash phantomsection, \hyperpage{viii}
+
+  \indexspace
+
+  \item ncuthesis 環境
+    \subitem abstractcn, \hyperpage{i}
+    \subitem abstracten, \hyperpage{ii}
+
+\end{theindex}

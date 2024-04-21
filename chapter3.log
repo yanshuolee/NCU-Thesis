@@ -1,0 +1,27 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.3) (preloaded format=pdflatex 2022.6.21)  27 JUN 2023 18:43
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**./chapter3.tex
+(chapter3.tex
+LaTeX2e <2022-06-01> pre-release-0 (develop 2022-6-21 branch)
+L3 programming layer <2022-06-02>
+! Undefined control sequence.
+l.1 \chapter
+            {Background knowledge}
+? 
+! Emergency stop.
+l.1 
+    
+End of file on the terminal!
+
+ 
+Here is how much of TeX's memory you used:
+ 18 strings out of 478354
+ 383 string characters out of 2853539
+ 297320 words of memory out of 3000000
+ 18533 multiletter control sequences out of 15000+600000
+ 469259 words of font info for 28 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 13i,0n,12p,76b,10s stack positions out of 10000i,1000n,20000p,200000b,80000s
+!  ==> Fatal error occurred, no output PDF file produced!

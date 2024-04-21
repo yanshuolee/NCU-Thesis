@@ -1,0 +1,55 @@
+\chapter{Related work}
+The prior works of probabilistic search, informative path planning (IPP), submodular maximization problems and the Prim-Dijkstra algorithm are discussed in this section.
+
+\section{Probabilistic search}
+
+Probabilistic search consists of perception and decision-making \cite{stone1976theory}.
+Perception is to estimate where the target is. Bayesian filter enables agents to estimate the probability distribution of the targets~\cite{bourgault2003coordinated}.
+Decision-making is to find the optimal path according to perception.
+However, finding the optimal solution for this problem is NP-hard~\cite{trummel1986complexity}.
+
+There are two steps in the perception of probabilistic search.
+First, a probabilistic search is to construct a probabilistic map including the initial information.
+The probabilistic map is composed of cells. Each cell represents whether the target is located or not.
+Second, the agent runs the Bayesian filter to update the probabilistic cell of the target existing or not~\cite{chung2007decision}\cite{chung2011analysis}.
+
+Occupancy grid maps updated by Bayesian filter are the most commonly used for spatial sensing in perception~\cite{elfes1989using}.
+In~\cite{chung2011analysis}\cite{tseng2017near}, the researchers show searching for one target with different parameters
+using a Bayesian filter.
+In~\cite{popovic2020informative}, the researchers show the an UAV is able to execute terrain monitoring in discrete environments using Bayesian search.
+
+
+
+
+\section{Informative path planning (IPP)}
+IPP is to find the optimal path for an agent to maximize the pre-defined information subject to budget constraints~\cite{lau2008discounted}.
+The IPP problems can be classified by (i) non-adaptive and (ii) adaptive planning strategies.
+If the agent has information about the environment in advance, and plans the path before taking off, it is called non-adaptive methods~\cite{besada2010evolutionary}, e.g., coverage methods~\cite{galceran2013survey}\cite{torres2016coverage}, pareto optimization methods~\cite{qian2017subset}, evolution algorithm methods~\cite{bian2020efficient}.
+On the other hand, if the agent is allowed to change the path as the information collected during flight, it is called adaptive methods~\cite{nikolos2003evolutionary}, e.g., continuous-space informative path planner (CIPP) method~\cite{hitz2017adaptive}, adaptive submodularity with hypothesis pruning methods~\cite{javdani2013efficient}, and non-myopic methods~\cite{singh2009nonmyopic}.
+
+The IPP problem can be considered as the data gathering mission amounts to one of sequential decision-making under uncertainty, which can be conducted as a Partially Observable Markov Decision Process (POMDP)\\~\cite{kadane1977optimal}, which is NP-hard.
+Although it is NP-hard problems, the greedy approach can obtain near-optimal solutions~\cite{nemhauser1978analysis}.
+In~\cite{tseng2017near}, the researchers proposed maximizing the cumulative extended probability of detection. The method can solve the IPP problem with $(1-\frac{1}{e})$ lower bound guarantee with high probability.
+
+
+In~\cite{popovic2017online}~\cite{popovic2020informative}, the authors adopt two-steps approach to adaptive plan strategies.
+First, the agents find the solutions greedily to maximize the reduction of Shannon’s entropy in the map.
+It is similar to frontier-based approaches for map exploration problems~\cite{yamauchi1998frontier}.
+Second, the agents optimize the subgoals by Covariance Matrix Adaptation Evolution Strategy (CMA-ES)~\cite{popovic2017multiresolution}\cite{popovic2017online}.
+CMA-ES is an evolutionary approach with generic global optimization~\cite{hansen2006cma}.
+Although the methods in~\cite{popovic2020informative}\cite{popovic2017online} are adaptive, there are no theoretical guarantees.
+
+\section{Submodular maximization problems}
+A set function is submodular if it follows the diminishing returns property. If the function is nondecreasing and submodular, greedy policies find the solutions with theoretical guarantees~\cite{nemhauser1978analysis}.
+Various applications include map exploration~\cite{corah2019distributed}\cite{lu20203d}, collecting lake information~\cite{singh2009nonmyopic},  locating a non-adversarial target~\cite{hollinger2008proofs}\cite{tseng2017near}, and placing sensors for indoor temperature prediction~\cite{krause2006near}.
+In~\cite{zhang2016submodular}, the researchers propose generalized cost-benefit (GCB) algorithm for submodular maximization problems with routing constraints.
+It was proved that the GCB algorithm has $\frac{1}{2}(1-\frac{1}{e})\widetilde{OPT}$ theoretical guarantees where $\widetilde{OPT} \le OPT$.
+In~\cite{lin2023improvement}, the researchers further improve the guarantees to $\frac{1}{2}(1-\frac{1}{e})\overline{OPT}$
+via the submodularity of routing cost trees~\cite{flood1956traveling} and recovering set functions in the Fourier domain~\cite{stobbe2012learning}~\cite{tseng2017near}, where $\widetilde{OPT} \le \overline{OPT} \le OPT$.
+
+\section{Prim-Dijkstra algorithm}
+The prim algorithm~\cite{prim1957shortest} is to solve the Minimum spanning tree (MST) problems while the Dijkstra algorithm~\cite{dijkstra1959note} is to solve the shortest path tree (SPT) problems.
+In~\cite{alpert1993direct}, the researchers combine Prim and Dijkstra (\emph{PD}) constructions which trade off path length (PL) and total tree weight (TW) to solve routing tree problem, where PL represents the length from the source vertex to the current vertex along the current tree and TW represents the total weight in the tree.
+In~\cite{alpert2018prim}, the researchers propose the \emph{PD-II} algorithm via incorporating total detour cost and the amount of suboptimal PL for each node for improving PD algorithm.
+%{\color{olive}PD structure is generally regarded as the best available spanning tree algorithm for achieving this trade-off~\cite{alpert2018prim}.} {\color{red} (this trade-off?) }
+In~\cite{lin2023improvement}, the researchers adopt MST as a routing cost tree to improve theoretical guarantees.

@@ -1,0 +1,282 @@
+\begin{thebibliography}{10}
+
+\bibitem{popovic2017multiresolution}
+Marija Popovi{\'c}, Teresa Vidal-Calleja, Gregory Hitz, Inkyu Sa, Roland
+  Siegwart, and Juan Nieto.
+\newblock Multiresolution mapping and informative path planning for uav-based
+  terrain monitoring.
+\newblock {\em IEEE/RSJ International Conference on Intelligent Robots and
+  Systems (IROS)}, pages 1382--1388, 2017.
+
+\bibitem{popovic2020informative}
+Marija Popovi{\'c}, Teresa Vidal-Calleja, Gregory Hitz, Jen~Jen Chung, Inkyu
+  Sa, Roland Siegwart, and Juan Nieto.
+\newblock An informative path planning framework for uav-based terrain
+  monitoring.
+\newblock {\em Autonomous Robots}, 44(6):889--911, 2020.
+
+\bibitem{nemhauser1978analysis}
+George~L Nemhauser, Laurence~A Wolsey, and Marshall~L Fisher.
+\newblock An analysis of approximations for maximizing submodular set
+  functions—i.
+\newblock {\em Mathematical programming}, 14(1):265--294, 1978.
+
+\bibitem{khuller1999budgeted}
+Samir Khuller, Anna Moss, and Joseph~Seffi Naor.
+\newblock The budgeted maximum coverage problem.
+\newblock {\em Information processing letters}, 70(1):39--45, 1999.
+
+\bibitem{zhang2016submodular}
+Haifeng Zhang and Yevgeniy Vorobeychik.
+\newblock Submodular optimization with routing constraints.
+\newblock {\em Proceedings of the AAAI conference on artificial intelligence},
+  30(1), 2016.
+
+\bibitem{feige1998threshold}
+Uriel Feige.
+\newblock A threshold of ln n for approximating set cover.
+\newblock {\em Journal of the ACM (JACM)}, 45(4):634--652, 1998.
+
+\bibitem{flood1956traveling}
+Merrill~M Flood.
+\newblock The traveling-salesman problem.
+\newblock {\em Operations research}, 4(1):61--75, 1956.
+
+\bibitem{grossman1997computational}
+Tal Grossman and Avishai Wool.
+\newblock Computational experience with approximation algorithms for the set
+  covering problem.
+\newblock {\em European journal of operational research}, 101(1):81--92, 1997.
+
+\bibitem{lin1973effective}
+Shen Lin and Brian~W Kernighan.
+\newblock An effective heuristic algorithm for the traveling-salesman problem.
+\newblock {\em Operations research}, 21(2):498--516, 1973.
+
+\bibitem{lin2023improvement}
+Pao-Te Lin and Kuo-Shih Tseng.
+\newblock Improvement of submodular maximization problems with routing
+  constraints via submodularity and fourier sparsity.
+\newblock {\em IEEE Robotics and Automation Letters}, 8(4):1927--1934, 2023.
+
+\bibitem{stone1976theory}
+Lawrence~D Stone.
+\newblock {\em Theory of optimal search}.
+\newblock Elsevier, 1976.
+
+\bibitem{bourgault2003coordinated}
+Frederic Bourgault, Tomonari Furukawa, and Hugh~F Durrant-Whyte.
+\newblock Coordinated decentralized search for a lost target in a bayesian
+  world.
+\newblock {\em Proceedings IEEE/RSJ International Conference on Intelligent
+  Robots and Systems (IROS)}, 1:48--53, 2003.
+
+\bibitem{trummel1986complexity}
+KE~Trummel and JR~Weisinger.
+\newblock The complexity of the optimal searcher path problem.
+\newblock {\em Operations Research}, 34(2):324--327, 1986.
+
+\bibitem{chung2007decision}
+Timothy~H Chung and Joel~W Burdick.
+\newblock A decision-making framework for control strategies in probabilistic
+  search.
+\newblock {\em Proceedings IEEE International Conference on Robotics and
+  Automation}, pages 4386--4393, 2007.
+
+\bibitem{chung2011analysis}
+Timothy~H Chung and Joel~W Burdick.
+\newblock Analysis of search decision making using probabilistic search
+  strategies.
+\newblock {\em IEEE Transactions on Robotics}, 28(1):132--144, 2011.
+
+\bibitem{elfes1989using}
+Alberto Elfes.
+\newblock Using occupancy grids for mobile robot perception and navigation.
+\newblock {\em Computer}, 22(6):46--57, 1989.
+
+\bibitem{tseng2017near}
+Kuo-Shih Tseng and B{\'e}r{\'e}nice Mettler.
+\newblock Near-optimal probabilistic search via submodularity and sparse
+  regression.
+\newblock {\em Autonomous Robots}, 41(1):205--229, 2017.
+
+\bibitem{lau2008discounted}
+Haye Lau, Shoudong Huang, and Gamini Dissanayake.
+\newblock Discounted mean bound for the optimal searcher path problem with
+  non-uniform travel times.
+\newblock {\em European journal of operational research}, 190(2):383--397,
+  2008.
+
+\bibitem{besada2010evolutionary}
+Eva Besada-Portas, Luis de~la Torre, Jesus~M de~la Cruz, and Bonifacio
+  de~Andr{\'e}s-Toro.
+\newblock Evolutionary trajectory planner for multiple uavs in realistic
+  scenarios.
+\newblock {\em IEEE Transactions on Robotics}, 26(4):619--634, 2010.
+
+\bibitem{galceran2013survey}
+Enric Galceran and Marc Carreras.
+\newblock A survey on coverage path planning for robotics.
+\newblock {\em Robotics and Autonomous systems}, 61(12):1258--1276, 2013.
+
+\bibitem{torres2016coverage}
+Marina Torres, David~A Pelta, Jos{\'e}~L Verdegay, and Juan~C Torres.
+\newblock Coverage path planning with unmanned aerial vehicles for 3d terrain
+  reconstruction.
+\newblock {\em Expert Systems with Applications}, 55:441--451, 2016.
+
+\bibitem{qian2017subset}
+Chao Qian, Jing-Cheng Shi, Yang Yu, and Ke~Tang.
+\newblock On subset selection with general cost constraints.
+\newblock {\em IJCAI}, 17:2613--2619, 2017.
+
+\bibitem{bian2020efficient}
+Chao Bian, Chao Feng, Chao Qian, and Yang Yu.
+\newblock An efficient evolutionary algorithm for subset selection with general
+  cost constraints.
+\newblock {\em Proceedings of the AAAI Conference on Artificial Intelligence},
+  34(04):3267--3274, 2020.
+
+\bibitem{nikolos2003evolutionary}
+Ioannis~K Nikolos, Kimon~P Valavanis, Nikos~C Tsourveloudis, and Anargyros~N
+  Kostaras.
+\newblock Evolutionary algorithm based offline/online path planner for uav
+  navigation.
+\newblock {\em IEEE Transactions on Systems, Man, and Cybernetics, Part B
+  (Cybernetics)}, 33(6):898--912, 2003.
+
+\bibitem{hitz2017adaptive}
+Gregory Hitz, Enric Galceran, Marie-{\`E}ve Garneau, Fran{\c{c}}ois Pomerleau,
+  and Roland Siegwart.
+\newblock Adaptive continuous-space informative path planning for online
+  environmental monitoring.
+\newblock {\em Journal of Field Robotics}, 34(8):1427--1449, 2017.
+
+\bibitem{javdani2013efficient}
+Shervin Javdani, Matthew Klingensmith, J~Andrew Bagnell, Nancy~S Pollard, and
+  Siddhartha~S Srinivasa.
+\newblock Efficient touch based localization through submodularity.
+\newblock {\em IEEE International Conference on Robotics and Automation}, pages
+  1828--1835, 2013.
+
+\bibitem{singh2009nonmyopic}
+Amarjeet Singh.
+\newblock Nonmyopic adaptive informative path planning for multiple robots.
+\newblock 2009.
+
+\bibitem{kadane1977optimal}
+Joseph~B Kadane and Herbert~A Simon.
+\newblock Optimal strategies for a class of constrained sequential problems.
+\newblock {\em The Annals of Statistics}, 5(2):237--255, 1977.
+
+\bibitem{popovic2017online}
+Marija Popovic, Gregory Hitz, Juan Nieto, Inkyu Sa, Roland Siegwart, and Enric
+  Galceran.
+\newblock Online informative path planning for active classification using
+  uavs.
+\newblock {\em arXiv preprint arXiv:1609.08446}, 2016.
+
+\bibitem{yamauchi1998frontier}
+Brian Yamauchi.
+\newblock Frontier-based exploration using multiple robots.
+\newblock {\em Proceedings of the second international conference on Autonomous
+  agents}, pages 47--53, 1998.
+
+\bibitem{hansen2006cma}
+Nikolaus Hansen.
+\newblock The cma evolution strategy: a comparing review.
+\newblock {\em Towards a new evolutionary computation}, pages 75--102, 2006.
+
+\bibitem{corah2019distributed}
+Micah Corah and Nathan Michael.
+\newblock Distributed matroid-constrained submodular maximization for
+  multi-robot exploration: Theory and practice.
+\newblock {\em Autonomous Robots}, 43:485--501, 2019.
+
+\bibitem{lu20203d}
+Bing-Xian Lu and Kuo-Shih Tseng.
+\newblock 3d map exploration via learning submodular functions in the fourier
+  domain.
+\newblock {\em International Conference on Unmanned Aircraft Systems (ICUAS)},
+  pages 1199--1205, 2020.
+
+\bibitem{hollinger2008proofs}
+Geoffrey Hollinger and Sanjiv Singh.
+\newblock Proofs and experiments in scalable, near-optimal search by multiple
+  robots.
+\newblock {\em Proceedings of Robotics: Science and Systems}, 1, 2008.
+
+\bibitem{krause2006near}
+Andreas Krause, Carlos Guestrin, Anupam Gupta, and Jon Kleinberg.
+\newblock Near-optimal sensor placements: Maximizing information while
+  minimizing communication cost.
+\newblock {\em Proceedings of the 5th international conference on Information
+  processing in sensor networks}, pages 2--10, 2006.
+
+\bibitem{stobbe2012learning}
+Peter Stobbe and Andreas Krause.
+\newblock Learning fourier sparse set functions.
+\newblock {\em Artificial Intelligence and Statistics}, pages 1125--1133, 2012.
+
+\bibitem{prim1957shortest}
+Robert~Clay Prim.
+\newblock Shortest connection networks and some generalizations.
+\newblock {\em The Bell System Technical Journal}, 36(6):1389--1401, 1957.
+
+\bibitem{dijkstra1959note}
+EW~Dijkstra.
+\newblock A note on two problems in connexion with graphs.
+\newblock {\em Numerische Math.}, 1:269--271, 1959.
+
+\bibitem{alpert1993direct}
+Charles~J Alpert, TC~Hu, Jen-Hsin Huang, and Andrew~B Kahng.
+\newblock A direct combination of the prim and dijkstra constructions for
+  improved performance-driven global routing.
+\newblock {\em IEEE International Symposium on Circuits and Systems}, pages
+  1869--1872, 1993.
+
+\bibitem{alpert2018prim}
+Charles~J Alpert, Wing-Kai Chow, Kwangsoo Han, Andrew~B Kahng, Zhuo Li, Derong
+  Liu, and Sriram Venkatesh.
+\newblock Prim-dijkstra revisited: Achieving superior timing-driven routing
+  trees.
+\newblock {\em Proceedings of the International Symposium on Physical Design},
+  pages 10--17, 2018.
+
+\bibitem{conforti1984submodular}
+Michele Conforti and G{\'e}rard Cornu{\'e}jols.
+\newblock Submodular set functions, matroids and the greedy algorithm: tight
+  worst-case bounds and some generalizations of the rado-edmonds theorem.
+\newblock {\em Discrete applied mathematics}, 7(3):251--274, 1984.
+
+\bibitem{tseng2016learning}
+Kuo-Shih Tseng.
+\newblock {\em Learning in human and robot search: Subgoal, submodularity, and
+  sparsity}.
+\newblock PhD thesis, University of Minnesota, 2016.
+
+\bibitem{SHIEH2023}
+Rei-Shu Shieh.
+\newblock Map explorations via dynamic tree-structured graph.
+\newblock Master's thesis, National Central University, 2023.
+
+\bibitem{schutte1952problem}
+Kurt Sch{\"u}tte and Bartel~Leendert van~der Waerden.
+\newblock Das problem der dreizehn kugeln.
+\newblock {\em Mathematische Annalen}, 125(1):325--334, 1952.
+
+\bibitem{rosenkrantz1977analysis}
+Daniel~J Rosenkrantz, Richard~E Stearns, and Philip~M Lewis, II.
+\newblock An analysis of several heuristics for the traveling salesman problem.
+\newblock {\em SIAM journal on computing}, 6(3):563--581, 1977.
+
+\bibitem{glenn_jocher_2022_7347926}
+Glenn Jocher, Ayush Chaurasia, Alex Stoken, Jirka Borovec, NanoCode012, Yonghye
+  Kwon, Kalen Michael, TaoXie, Jiacong Fang, imyhxy, Lorna, Zeng Yifu, Colin
+  Wong, Abhiram V, Diego Montes, Zhiqiang Wang, Cristi Fati, Jebastin Nadar,
+  Laughing, UnglvKitDe, Victor Sonck, tkianai, yxNONG, Piotr Skalski, Adam
+  Hogan, Dhruv Nair, Max Strobel, and Mrinal Jain.
+\newblock {ultralytics/yolov5: v7.0 - YOLOv5 SOTA Realtime Instance
+  Segmentation}, November 2022.
+
+\end{thebibliography}

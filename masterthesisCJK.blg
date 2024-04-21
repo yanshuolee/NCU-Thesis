@@ -1,0 +1,88 @@
+This is BibTeX, Version 0.99d
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: masterthesisCJK.aux
+Reallocating 'name_of_file' (item size: 1) to 15 items.
+A level-1 auxiliary file: abstractcn.aux
+Reallocating 'name_of_file' (item size: 1) to 15 items.
+A level-1 auxiliary file: abstracten.aux
+Reallocating 'name_of_file' (item size: 1) to 10 items.
+A level-1 auxiliary file: lists.aux
+Reallocating 'name_of_file' (item size: 1) to 11 items.
+A level-1 auxiliary file: symbol.aux
+Reallocating 'name_of_file' (item size: 1) to 13 items.
+A level-1 auxiliary file: chapter1.aux
+Reallocating 'name_of_file' (item size: 1) to 13 items.
+A level-1 auxiliary file: chapter2.aux
+Reallocating 'name_of_file' (item size: 1) to 13 items.
+A level-1 auxiliary file: chapter3.aux
+Reallocating 'name_of_file' (item size: 1) to 13 items.
+A level-1 auxiliary file: chapter4.aux
+Reallocating 'name_of_file' (item size: 1) to 13 items.
+A level-1 auxiliary file: chapter5.aux
+Reallocating 'name_of_file' (item size: 1) to 13 items.
+A level-1 auxiliary file: chapter6.aux
+Reallocating 'name_of_file' (item size: 1) to 13 items.
+A level-1 auxiliary file: chapter7.aux
+Reallocating 'name_of_file' (item size: 1) to 10 items.
+A level-1 auxiliary file: bibli.aux
+Reallocating 'name_of_file' (item size: 1) to 6 items.
+The style file: unsrt.bst
+Reallocating 'name_of_file' (item size: 1) to 7 items.
+Database file #1: my_bib.bib
+Repeated entry---line 835 of file my_bib.bib
+ : @article{chung2011analysis
+ :                           ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1059 of file my_bib.bib
+ : @article{galceran2013survey
+ :                            ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1423 of file my_bib.bib
+ : @article{prim1957shortest
+ :                          ,
+I'm skipping whatever remains of this entry
+Warning--entry type for "glenn_jocher_2022_7347926" isn't style-file defined
+--line 1443 of file my_bib.bib
+Warning--empty journal in singh2009nonmyopic
+You've used 46 entries,
+            1791 wiz_defined-function locations,
+            741 strings with 12409 characters,
+and the built_in function-call counts, 11979 in all, are:
+= -- 1127
+> -- 531
+< -- 10
++ -- 196
+- -- 150
+* -- 865
+:= -- 1869
+add.period$ -- 137
+call.type$ -- 46
+change.case$ -- 44
+chr.to.int$ -- 0
+cite$ -- 47
+duplicate$ -- 494
+empty$ -- 1081
+format.name$ -- 150
+if$ -- 2633
+int.to.chr$ -- 0
+int.to.str$ -- 46
+missing$ -- 44
+newline$ -- 232
+num.names$ -- 46
+pop$ -- 86
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 0
+skip$ -- 276
+stack$ -- 0
+substring$ -- 1040
+swap$ -- 136
+text.length$ -- 10
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 1
+while$ -- 132
+width$ -- 48
+write$ -- 501
+(There were 3 error messages)
