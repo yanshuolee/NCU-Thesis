@@ -4,13 +4,13 @@
 \addvspace {10\p@ }
 \addvspace {10\p@ }
 \addvspace {10\p@ }
-\contentsline {table}{\numberline {6.1}{\ignorespaces Drone hardware setup in simulation.\relax }}{26}{table.caption.22}%
-\contentsline {table}{\numberline {6.2}{\ignorespaces Drone hardware setup in real world.\relax }}{28}{table.caption.24}%
-\contentsline {table}{\numberline {6.3}{\ignorespaces EPD maximization experiment results. The accumulated EPD (AEPD) as follows. \relax }}{30}{table.caption.27}%
-\contentsline {table}{\numberline {6.4}{\ignorespaces Search experiment results reveal indicators success rate and $\mathbb {E}$[TTD$^+$] in map1 and map2. \relax }}{33}{table.caption.30}%
-\contentsline {table}{\numberline {6.5}{\ignorespaces Search experiment results reveal indicators success rate and $\mathbb {E}$[TTD$^+$] in real world. \relax }}{35}{table.caption.33}%
-\contentsline {table}{\numberline {6.6}{\ignorespaces Search experiment results reveal indicators success rate and $\mathbb {E}$[TTD$^+$] in map 1 with different $\alpha $.\relax }}{37}{table.caption.35}%
-\contentsline {table}{\numberline {6.7}{\ignorespaces Search experiment results reveal indicators success rate and $\mathbb {E}$[TTD$^+$] in map 2 with different $\alpha $.\relax }}{37}{table.caption.36}%
+\contentsline {table}{\numberline {6.1}{\ignorespaces Parameters of EX1 and EX2.\relax }}{25}{table.caption.16}%
+\contentsline {table}{\numberline {6.2}{\ignorespaces The expected number of detected objects (ENDO) in various environment sizes ($E$) and number of targets ($T$) on Gazebo simulator.\relax }}{27}{table.caption.19}%
+\contentsline {table}{\numberline {6.3}{\ignorespaces The expected time to detection (ETTD) in various environment sizes ($E$) and number of targets ($T$) on Gazebo simulator. The unit is seconds.\relax }}{28}{table.caption.20}%
+\contentsline {table}{\numberline {6.4}{\ignorespaces The expected time to detection (ETTD) of MRSM and baselines (MRSIS\cite {li2024mrsis}, CapAM\cite {paull2022learning}, and PD-FAC\cite {sheng2022pd}) in the real-world environment. \relax }}{28}{table.caption.21}%
+\contentsline {table}{\numberline {6.5}{\ignorespaces The expected number of detected objects (ENDO) with different parameters (robot routing budget $l_i$, number of targets $t$, and balancing weight $\lambda $) on Gazebo simulator.\relax }}{29}{table.caption.24}%
+\contentsline {table}{\numberline {6.6}{\ignorespaces The expected time to detection (ETTD) with different parameters (robot routing budget $l_i$, number of targets $t$, and balancing weight $\lambda $) on Gazebo simulator. The unit is in seconds.\relax }}{30}{table.caption.25}%
+\contentsline {table}{\numberline {6.7}{\ignorespaces Large-scale experiment results of the ENDO, the ETTD, and the coverage rate with different numbers of UAVs on Gazebo simulator.\relax }}{33}{table.caption.26}%
 \addvspace {10\p@ }
 \contentsfinish 
 \contentsfinish 

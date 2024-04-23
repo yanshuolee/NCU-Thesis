@@ -1,14 +1,10 @@
-\chapter{Conclusions and future work}
-This research proposes the CBST tree structure to solve submodular maximization problems subject to budget constraint.
-The research is summarized as follows:
-First, to the best of our knowledge, this is the first work to span cost-benefit tree outperforming benchmark methods.
-Second, due to the $\kappa_c$ of the different tree structure, the theorems show the theoretical guarantees in the different tree structures.
-Third, the experiments show that the proposed CBST using GCB algorithm outperforms the benchmark approaches.
+\chapter{Conclusions and Future Work}
+To overcome the coverage and task allocation problems, this research proposes the MRSM algorithm.
+In addition, the clustering and routing constraints are reformulated into the intersection of matroids.
+With submodularity and matroid property, MRSM achieves $\frac{1}{3}\widetilde{OPT}$, where $\widetilde{OPT}$ is an approximately optimal performance under the spanning tree structure.
+Experiment results show that MRSM outperforms state-of-the-art approaches in multi-robot search problems.
 
-The future work of this research is as follows:
-First, The CBST using GCB algorithm outperforms the benchmark in search experiments in the empty map.
-If there are obstacles in the map, the CBST spanning tree could not have better performance than the other methods.
-Second, the GCB with tree structured graph cost function is offline approach.
-How to apply adaptive submodularity to tree structures is another research direction.
-Finally, the proposed algorithm is applied to a static target.
-How to extend the proposed algorithm to multiple targets and moving targets is another potential research.
+The future work of this research is as follows.
+First, MRSM relies on known environments. The multi-robot search with an unknown map can be achieved by map exploration and a robot search approach.\cite{Lu2020map}
+Second, MRSM is an offline planning approach. Extending the current approach to plan a trajectory online via adaptive submodularity is another direction.\cite{golovin2011adaptive}
+Third, in EX2, where MRSM does not consistently surpass MRSIS-TSP\cite{li2024mrsis}, exploring the integration of both advantages becomes another viable direction.

@@ -1,78 +1,50 @@
-\chapter{Proposed algorithms}
-There are two algorithms: CBST algorithm and terrain monitoring algorithm.
-The Alg.~\ref{al:CBST} is to generate the CBST (e.g., from Fig.~\ref{fig:method_intro} (a) to Fig.~\ref{fig:method_intro} (b)).
-The Alg.~\ref{al:TM_CBST} is to generate the path using GCB algorithm (e.g.,  from Fig.~\ref{fig:method_intro} (b) to Fig.~\ref{fig:method_intro} (c)).
+\chapter{Proposed Algorithm}
+This research proposes a Multi-robot Search with Matroid (MRSM) algorithm, which is an improved version of MRSIS \cite{li2024mrsis}.
+The objective is to solve Eq. \eqref{eq:objective-Mat}. The algorithm generates $k$ trajectories for $k$ robots.
 
+MRSM is presented in Alg. \ref{alg:matroid-greedy}.
+Line 1 is to initialize the selected edge set $S$.
+Lines 2-3 define the objective function and the set of matroidal independence systems, respectively.
+Line 5 is the edge initialization. Inspired by Kruskal's algorithm, the initial edge $e^i$ is sampled based on the minimum edge weight.
+The main difference between MRSIS \cite{li2024mrsis} and MRSM is lines 11-14.
+In MRSIS \cite{li2024mrsis}, the graph $S \cup \{e^*\}$ is transformed into robot trajectories by TSP or MST solver.
+In MRSM,  the maximal marginal gain is selected to ensure that $S$ remains spanning trees.
+The advantage is that MRSM rules out redundant processes (e.g., solving TSP or constructing MST) which improves the computational time.
+The computational complexity of MRSM is $\mathcal{O}(|E|^2)$. On the other hand, the computational complexity of MRSIS is $\mathcal{O}(|E|^2+|E||V|^2)$ for both TSP and MST.
 
-In Alg.~\ref{al:CBST}, the inputs are an undirected graph ($G$), the source ($s$).
-The output is the spanning tree.
-Line $1$ is to build $Q$ (vertices in $G$).
-Lines $2-3$ are initialization{\color{olive}s}.
-Line $5$ is to find the distance connecting $v_q$ and $v_k$, where $v_q$ belongs to the current growing tree ($S$), and $v_k$ does not belong to the tree current growing tree.
-Line $6$ is to find the path length from the source vertex to $v_q$ along the current growing tree ($S$).
-Line $7$ is to maximize $f/c$, where $c$ is the cost function about Prim's algorithm and Dijkstra algorithm.
-Lines $8-9$ are to update current tree and spanning tree.
-
+The key innovation of the MRSM algorithm is that it expands spanning trees with matroid property.
+Hence, MRSM adopts Kruskal's algorithm since Kruskal's algorithm inherently follows a matroid structure.
+In constructing an MST, Kruskal's algorithm selects the edge with the minimum weight from the ground set.
+It verifies the adding edge to the solution without generating cycling graphs.
+The primary difference between MRSM and Kruskal's algorithm is their objectives.
+Kruskal's algorithm seeks to generate a minimum spanning tree while
+MRSM discovers a spanning tree that maximizes the objective function under clustering and routing budgets.
 
 \begin{algorithm}[htbp]	
-	\KwIn{\\
-$G = (V, E, w)$: undirected graph \\
-$s$: the start point \\
-$f$: objective function
-}
-\KwOut{$S$: spanning tree}
-\Parameter{$\alpha$ (between $0$ and $1$)}
-	\caption{Cost-benefit spanning tree}
+	\KwIn{$G=(V,E, w)$ (weighted graph), $\mathit{\mathbb{M}}$ (set of matroidal independence systems), $f$ (coverage function), $\mathcal{B}$ (balancing function), $\lambda$ (balancing function weight), $n$ (number of robots), $l_i$ (routing budget)}
+    \KwOut{Selected edge set $S \subseteq E$}
+	\caption{Multi-robot Search with Matroid (MRSM)}
 	\begin{algorithmic}[1]
-    \State {$Q = V$ \#all of vertices in $G$}
-    \State {$Q = Q \setminus \{s\}$}
-    \State {$S = \phi$}
-    \WHILE {$Q \neq \phi$}
-        \State {let $d_{qk}$ be the cost edge \; such that $q \in Q$ and $k \in V \setminus Q$}
-        \State {$pl_q$ is distance from source to $v_q$}
-        \State {maximize ($\frac{f}{\alpha\times pl_i+d_{iu}}$) where $i\in Q,$ $u\in V\setminus Q$}
-        \State {$Q = Q \setminus \{i\}$}
-%        \FOR {$u$ which are neighbors of $i$ still in $Q$}
-%            \State {$RELAX(u, i, w)$}
-            \State {$S = S \cup (u, i)$}
-%        \ENDFOR
-    \ENDWHILE	
-    \end{algorithmic}	
-	\label{al:CBST}
-\end{algorithm}
-
-\begin{algorithm}[thbp]
-\KwIn{\\
-$S=(V, E, w)$: spanning tree \\
-$s$: the start point \\
-$f$: objective function \\
-$c$: cost function from spanning tree $S$ \\
-$B$: budget
-}
-\KwOut{$\pi$: subgoal set}
-    \caption{Terrain monitoring using CBST}
-    \begin{algorithmic}[1]
-    \State {$G:=\phi$}
-    \State {$\pi:=\phi$}
-    \State {$V^{'} = V$}
-    \WHILE {$V^{'}\neq \phi$}
-        \FOR {$X \in V$}
-            \State {$\Delta_f^X:=f(G\cup X)-f(G)$}
-            \State {$\Delta_c^X:=c(G\cup X)-c(G)$}
+        \State {$S \gets \emptyset$}
+        \State {$F \triangleq f+\lambda B$}
+        \State {$\mathit{\mathbb{M}} \triangleq \{\mathcal{M}_C , \mathcal{M}_R\}$}
+        \FOR{$i \gets 1$ to $n$}
+            \State {$e_i \gets$ SampleMin$(E, S)$}
+            \State {$S\gets S \cup \{e_i\}$}
+            \State {$E \gets E \setminus \{e_i\}$}
         \ENDFOR
-        \State {$X^* = argmax\{\frac{\Delta_f^X}{\Delta_c^X}\}$}
-        \IF {$c(G\cup X^*)\le B$}
-            \State {$\pi = \pi\cup X^*$}
-        \ENDIF
-        \State {$V^{'}=V^{'}\setminus X^*$}
-    \ENDWHILE
-    \end{algorithmic}
-    \label{al:TM_CBST}
+        \WHILE {$E \neq \emptyset$}
+            \State {$e^* \gets \arg \max_{e \in E} F(S \cup {e})-F(S)$}
+            \State {$S' \gets S \cup \{e^*\}$}
+            \IF {$S' \in \bigcap_{\mathcal{M} \in \mathit{\mathbb{M}}} \mathcal{M}$}
+                \State {$S \gets S \cup \{e^{*}\}$}
+            \ENDIF
+            \State {$E \gets E \setminus \{e^*\}$}
+        \ENDWHILE
+    \end{algorithmic}	
+	\label{alg:matroid-greedy}
 \end{algorithm}
 
-In Alg.~\ref{al:TM_CBST}, the inputs, $S$, $s$, $f$, $c$, and $B,$ represent spanning tree built from Alg.~\ref{al:CBST}, the start point, objective function, cost function from spanning tree $S$ using shortest path tree, and a cost budget, respectively.
-The output is $\pi$ which is the subgoal set with budget constraint.
-Lines $1-3$ are initializations.
-Lines $4-9$ are to find maximum cost-benefit point in the spanning tree.
-Lines $10-12$ are to pick the point subject to budget constraint.
-Line $13$ is to avoid that the agent pick{\color{olive}s} the point repeatedly.
+
+
+
