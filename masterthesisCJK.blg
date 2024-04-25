@@ -31,66 +31,66 @@ Reallocating 'name_of_file' (item size: 1) to 7 items.
 Database file #1: my_bib.bib
 Warning--entry type for "glenn_jocher_2022_7347926" isn't style-file defined
 --line 433 of file my_bib.bib
-Repeated entry---line 1469 of file my_bib.bib
+Repeated entry---line 1501 of file my_bib.bib
  : @article{nemhauser1978analysis
  :                               ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 1489 of file my_bib.bib
+Repeated entry---line 1521 of file my_bib.bib
  : @article{zhang2016submodular
  :                             ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 1565 of file my_bib.bib
+Repeated entry---line 1597 of file my_bib.bib
  : @article{golovin2011adaptive
  :                             ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 2421 of file my_bib.bib
+Repeated entry---line 2453 of file my_bib.bib
  : @article{khuller1999budgeted
  :                             ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 2497 of file my_bib.bib
+Repeated entry---line 2529 of file my_bib.bib
  : @software{glenn_jocher_2022_7347926
  :                                    ,
 I'm skipping whatever remains of this entry
 Warning--empty journal in korte1978analysis
-You've used 39 entries,
+You've used 41 entries,
             1791 wiz_defined-function locations,
-            674 strings with 11534 characters,
-and the built_in function-call counts, 11039 in all, are:
-= -- 1025
-> -- 518
+            679 strings with 11763 characters,
+and the built_in function-call counts, 11333 in all, are:
+= -- 1049
+> -- 534
 < -- 14
-+ -- 186
-- -- 147
-* -- 769
-:= -- 1679
-add.period$ -- 116
-call.type$ -- 39
-change.case$ -- 38
++ -- 192
+- -- 151
+* -- 779
+:= -- 1733
+add.period$ -- 122
+call.type$ -- 41
+change.case$ -- 40
 chr.to.int$ -- 0
-cite$ -- 40
-duplicate$ -- 477
-empty$ -- 961
-format.name$ -- 147
-if$ -- 2487
+cite$ -- 42
+duplicate$ -- 493
+empty$ -- 989
+format.name$ -- 151
+if$ -- 2551
 int.to.chr$ -- 0
-int.to.str$ -- 39
-missing$ -- 39
-newline$ -- 197
-num.names$ -- 39
-pop$ -- 89
+int.to.str$ -- 41
+missing$ -- 41
+newline$ -- 207
+num.names$ -- 41
+pop$ -- 95
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 0
-skip$ -- 307
+skip$ -- 315
 stack$ -- 0
 substring$ -- 924
-swap$ -- 172
+swap$ -- 174
 text.length$ -- 14
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 0
 warning$ -- 1
-while$ -- 111
-width$ -- 41
-write$ -- 422
+while$ -- 113
+width$ -- 43
+write$ -- 442
 (There were 5 error messages)
