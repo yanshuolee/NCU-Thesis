@@ -2,11 +2,11 @@
 In this section, recent work on target search methods, multi-robot task allocation, and routing constraints is reviewed.
 
 \section{Target Search}
-Searching for targets in an environment is a sequential decision-making problem. Therefore, search methods based on the type of decision-making algorithm, such as submodular approaches, the frontier-based search, the next-best-view search, the probabilistic search, and Partially Observable Markov Decision Processes (POMDP), can be adopted to generate the search strategy.
+Searching for targets in an environment is a sequential decision-making problem. Therefore, search methods based on the type of decision-making algorithm, such as submodular approaches, the frontier-based search, the next-best-view search, the probabilistic search, and Partially Observable Markov Decision Processes (POMDP), can be adopted to generate the search strategies.
 
 The submodular method formulates the target search problem as submodular maximization under a resource constraint.
 Singh et al. \cite{singh2007efficient} introduce an efficient path planning algorithm (eMIP), which coordinates multiple robots to obtain highly informative paths subject to the robot's path cost.
-The eMIP finds solutions that achieve at least $\frac{1-1/e}{1+\log_2 N}$, where $N$ is the number of robots.
+The eMIP finds solutions that achieves at least $\frac{1-1/e}{1+\log_2 N}$, where $N$ is the number of robots.
 However, the performance deteriorates when more robots are involved.
 Li et al. \cite{li2024mrsis} propose a Multi-Robot Search with an Intersection System (MRSIS) algorithm.
 The objective is to generate a set of robot trajectories that maximize a coverage function and balance robot workloads under clustering and routing cost constraints.

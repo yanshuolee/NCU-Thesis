@@ -1,5 +1,7 @@
 \indexentry{ncuthesis 環境!abstractcn|hyperpage}{i}
 \indexentry{ncuthesis 環境!abstracten|hyperpage}{ii}
-\indexentry{\LaTeX!\textbackslash phantomsection|hyperpage}{vii}
-\indexentry{\LaTeX!\textbackslash addcontentline|hyperpage}{vii}
-\indexentry{\LaTeX!\textbackslash hspace|hyperpage}{vii}
+\indexentry{Acknowledgements|hyperpage}{iii}
+\indexentry{ncuthesis 環境!acknowledgements|hyperpage}{iii}
+\indexentry{\LaTeX!\textbackslash phantomsection|hyperpage}{viii}
+\indexentry{\LaTeX!\textbackslash addcontentline|hyperpage}{viii}
+\indexentry{\LaTeX!\textbackslash hspace|hyperpage}{viii}

@@ -3,8 +3,8 @@ Given a weighted graph $\mathcal{G}=(V, E, w)$ and an objective function $F:2^E 
 The objective function $F(S)=f(S)+\lambda \mathcal{B}(S)$ \cite{li2024mrsis} is defined as a linear combination of a coverage function $f$ and a balancing function $\mathcal{B}$, where $\lambda \in [0,1]$ is the weight of the balancing function\footnote{Both $f$ and $\mathcal{B}$ functions are normalized.}.
 In 3D environments, the coverage function is defined by calculating the ratio of the number of covered voxels to the total number of environmental voxels.
 
-Two variant formulations with known world maps are considered: Multi-robot search with independence system (MRSIS) \cite{li2024mrsis} and Multi-robot search with matroid (MRSM). \\
-
+Two variant formulations with known world maps are considered: Multi-robot search with independence system (MRSIS) \cite{li2024mrsis} and Multi-robot search with matroid (MRSM).
+The following two subsection proves the theoretical guarantees of MRSIS and MRSM.\\
 \section{Multi-robot search with independence system (MRSIS)}
 \begin{problem} \label{prob:objective-IS}
     (MRSIS) \cite{li2024mrsis} Given an objective function $F$, a set of independence system $\mathit{\mathbb{I}} = \{I_G , I_C\}$, the number of robots $n \in \mathbb{N}^+$, and a set of routing constraints for each robot $l = \{l_i \in \mathbb{R}^+\}_{i=1}^n$, find a subset $S \subseteq E$ that maximizes $F$ under an intersection of independence systems
@@ -167,9 +167,9 @@ In Fig. \ref{independent-set}(b), let $S_B=\{S_1,S_2\}$, where $S_1=\{(0,4),(4,2
 \begin{theorem}  \label{def:proposed-bound}
  (Lower bound of the proposed algorithm for MRSM) Let $F$ be the coverage and balancing function, $\mathit{\mathbb{M}}$ be a set of matroidal independence systems, $S$ be the solution of maximizing $F$ subject to the intersection of $\mathit{\mathbb{M}}$ via greedy algorithms. The performance of $S$ is
 \begin{equation*}
-      F(X) \geq \frac{1}{3} F(\widetilde{X^{opt}}),
+      F(S) \geq \frac{1}{3} F(\widetilde{S^{opt}}),
 \end{equation*}
-where $\widetilde{X^{opt}}$ is the optimal solution under tree structure.
+where $\widetilde{S^{opt}}$ is the optimal solution under tree structure.
 \end{theorem}
 \begin{proof}
 The coverage and balancing function $F$ is submodular (Thm. \ref{thm:proposed-obj}) and each element in $\mathit{\mathbb{M}}$ is a matroid (Thm. \ref{thm:clustering-matroid} and Thm. \ref{thm:routing-matroid}).

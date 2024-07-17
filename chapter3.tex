@@ -12,7 +12,7 @@ To further improve the performance, Def. \ref{def:matroid} introduces the concep
 The definition and illustration of submodularity are as follows:
 
 \begin{definition} \label{def:defsubmodular} (Submodularity) \cite{nemhauser1978analysis}
-A function $f:2^N \rightarrow \mathbb{R}^+$ is submodular if and only if $\forall S \subseteq T \subseteq N, \forall e \in N \setminus T, \ f(S\cup \{e\}) - f(S) \geq f(T\cup \{e\}) - f(S)$. \\
+A function $f:2^N \rightarrow \mathbb{R}^+$ is submodular if and only if $\forall S \subseteq T \subseteq N, \forall e \in N \setminus T, \ f(S\cup \{e\}) - f(S) \geq f(T\cup \{e\}) - f(T)$. \\
 \end{definition}
 
 Let $S=\{1,2,3\}$ be the ground set and $S_A=\{1\}$, $S_B=\{1,2\}$ be two different sets selected from the ground set, i.e., $S_A \subseteq S_B \subseteq S$. In Fig. \ref{submodularity} (a)(b), if the submodular function $f$ is defined as the coverage function, $f(S_A)$ and $f(S_B)$ depict the regions observed by the camera FOV at locations of $\{1\}$ and $\{1,2\}$.
@@ -87,12 +87,14 @@ Let $A \in \mathcal{I}$ be a set, and $B \subseteq A$ be a subset. In Fig. \ref{
 \end{definition}
 
 \begin{definition} \label{def:k-independence-system} ($k$-independence System) \cite{korte1978analysis}
-Given a ground set $E$, an independence family $\mathcal{I}$ and a set $Y\subset E$. Let $r(Y)$ be the set of maximal elements of $\mathcal{I}$ which are subsets of $Y$. That is, $r(Y)=\{A \in \mathcal{I} | A\subseteq Y \text{ and there is no }A' \in \mathcal{I} \text{ such that } A\subset A' \subseteq Y \}$. Then $(E, \mathcal{I})$ is a $k$-independence system if for all $Y\subset E$,
+Given a ground set $E$, an independence family $\mathcal{I}$ and a set $Y\subset E$. Let $r(Y)=\{A \in \mathcal{I} | A\subseteq Y \text{ and there is no }A' \in \mathcal{I} \text{ such that } A\subset A' \subseteq Y \}$. Then $(E, \mathcal{I})$ is a $k$-independence system if for all $Y\subset E$,
 \begin{align*}
     \frac{\max_{A\in r(Y)}|A|}{\min_{A\in r(Y)}|A|} \leq k,
 \end{align*}
-where $k\geq1$. As a special case, if $k=1$, then $(E, \mathcal{I})$ is a matroid. \\
+where $k\geq1$ and $|\cdot|$ is defined as the number of elements. As a special case, if $k=1$, then $(E, \mathcal{I})$ is a matroid. \\
 \end{definition}
+
+To clarify the concept of $k$-independence system, consider a ground set $E=\{1,2,3,4,5\}$ and an independence family $\mathcal{I}=\{\{1,2,3\},\{1,2\},\\ \{1,3\},\{1,4\},\{2,4\},\{1\},\{2\},\{3\}, \{4\},\emptyset \}$. Let $Y=\{2,3,4\}$ be a subset of $E$. By definition, $r(Y)=\{\{3\},\{2,3\},\{2,4\},\{3,4\}$\}. The ratio of the maximal cardinality to the minimal cardinality is 2. Thus, $k\geq2$.
 
 \begin{definition} \label{def:matroid} (Matroid) \cite{nemhauser1978analysis}
 A matroid $\mathcal{M}$ is a pair $(E, \mathcal{I})$, where $E$ is a finite set called the ground set and $\mathcal{I}$ is a family of subsets of $E$ called independent sets, with the following properties:

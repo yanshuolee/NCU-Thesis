@@ -62,19 +62,6 @@ Amarjeet Singh, Andreas Krause, Carlos Guestrin, William Kaiser, and Maxim
 \newblock {\em Proceedings of the 20th international joint conference on
   Artifical intelligence (IJCAI)}, pages 2204--2211, 2007.
 
-\bibitem{li2024casmo}
-Yan-Shuo Li and Kuo-Shih Tseng.
-\newblock Computation-aware multi-object search in 3d space using submodular
-  tree.
-\newblock {\em IEEE International Conference on Robotics and Automation
-  (ICRA)}, 2024.
-
-\bibitem{li2024mrsm}
-Yan-Shuo Li and Kuo-Shih Tseng.
-\newblock Multi-robot search in 3d environments using submodularity with
-  matroid intersection constraints.
-\newblock {\em Submitted to IEEE Transactions on Robotics}, 2024.
-
 \bibitem{zhou2021fuel}
 Boyu Zhou, Yichen Zhang, Xinyi Chen, and Shaojie Shen.
 \newblock Fuel: Fast uav exploration using incremental frontier structure and

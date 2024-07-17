@@ -4,13 +4,16 @@
 \addvspace {10\p@ }
 \addvspace {10\p@ }
 \addvspace {10\p@ }
-\contentsline {table}{\numberline {6.1}{\ignorespaces Parameters of EX1 and EX2.\relax }}{25}{table.caption.16}%
-\contentsline {table}{\numberline {6.2}{\ignorespaces The expected number of detected objects (ENDO) in various environment sizes ($E$) and number of targets ($T$) on Gazebo simulator.\relax }}{27}{table.caption.19}%
-\contentsline {table}{\numberline {6.3}{\ignorespaces The expected time to detection (ETTD) in various environment sizes ($E$) and number of targets ($T$) on Gazebo simulator. The unit is seconds.\relax }}{28}{table.caption.20}%
-\contentsline {table}{\numberline {6.4}{\ignorespaces The expected time to detection (ETTD) of MRSM and baselines (MRSIS\cite {li2024mrsis}, CapAM\cite {paull2022learning}, and PD-FAC\cite {sheng2022pd}) in the real-world environment. \relax }}{28}{table.caption.21}%
-\contentsline {table}{\numberline {6.5}{\ignorespaces The expected number of detected objects (ENDO) with different parameters (robot routing budget $l_i$, number of targets $t$, and balancing weight $\lambda $) on Gazebo simulator.\relax }}{29}{table.caption.24}%
-\contentsline {table}{\numberline {6.6}{\ignorespaces The expected time to detection (ETTD) with different parameters (robot routing budget $l_i$, number of targets $t$, and balancing weight $\lambda $) on Gazebo simulator. The unit is in seconds.\relax }}{30}{table.caption.25}%
-\contentsline {table}{\numberline {6.7}{\ignorespaces Large-scale experiment results of the ENDO, the ETTD, and the coverage rate with different numbers of UAVs on Gazebo simulator.\relax }}{33}{table.caption.26}%
+\contentsline {table}{\numberline {6.1}{\ignorespaces Parameters of EX1 and EX2.\relax }}{27}{table.caption.17}%
+\contentsline {table}{\numberline {6.2}{\ignorespaces The expected number of detected objects (ENDO) in various environment sizes ($\mathit {\mathbb {E}}$) and number of targets ($\mathit {\mathbb {T}}$) on Gazebo simulator.\relax }}{30}{table.caption.21}%
+\contentsline {table}{\numberline {6.3}{\ignorespaces The ETTD in various environment sizes ($\mathit {\mathbb {E}}$) and number of targets ($\mathit {\mathbb {T}}$) on Gazebo simulator. The unit is seconds.\relax }}{30}{table.caption.22}%
+\contentsline {table}{\numberline {6.4}{\ignorespaces The ETTD of MRSM and baselines (MRSIS \cite {li2024mrsis}, CapAM \cite {paull2022learning}, and PD-FAC \cite {sheng2022pd}) at the National Central University.\relax }}{32}{table.caption.23}%
+\contentsline {table}{\numberline {6.5}{\ignorespaces The ETTD of MRSM and baselines (MRSIS \cite {li2024mrsis}, CapAM \cite {paull2022learning}, and PD-FAC \cite {sheng2022pd}) at the Hengshan Calligraphy Art Park.\relax }}{32}{table.caption.24}%
+\contentsline {table}{\numberline {6.6}{\ignorespaces The expected number of detected objects (ENDO) with different parameters (robot routing budget $l_i$, number of targets $b$, and balancing weight $\lambda $) on Gazebo simulator.\relax }}{35}{table.caption.27}%
+\contentsline {table}{\numberline {6.7}{\ignorespaces The ETTD with different parameters (robot routing budget $l_i$, number of targets $b$, and balancing weight $\lambda $) on Gazebo simulator. The unit is in seconds.\relax }}{36}{table.caption.28}%
+\contentsline {table}{\numberline {6.8}{\ignorespaces The ENDO of MRSM with different parameters (environment sizes $\mathbb {E}$, number of targets $b$, and balancing weights $\lambda $) on Gazebo simulator.\relax }}{36}{table.caption.29}%
+\contentsline {table}{\numberline {6.9}{\ignorespaces The ETTD of MRSM with different parameters (environment sizes $\mathbb {E}$, number of targets $b$, and balancing weights $\lambda $) on Gazebo simulator. The unit is in seconds.\relax }}{37}{table.caption.30}%
+\contentsline {table}{\numberline {6.10}{\ignorespaces Large-scale experiment results of the ENDO, the ETTD, and the coverage rate with different numbers of subgoals and UAVs on Gazebo simulator.\relax }}{37}{table.caption.31}%
 \addvspace {10\p@ }
 \contentsfinish 
 \contentsfinish 

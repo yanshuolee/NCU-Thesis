@@ -1,10 +1,11 @@
 \chapter{Conclusions and Future Work}
-To overcome the coverage and task allocation problems, this research proposes the MRSM algorithm.
-In addition, the clustering and routing constraints are reformulated into the intersection of matroids.
-With submodularity and matroid property, MRSM achieves $\frac{1}{3}\widetilde{OPT}$, where $\widetilde{OPT}$ is an approximately optimal performance under the spanning tree structure.
-Experiment results show that MRSM outperforms state-of-the-art approaches in multi-robot search problems.
+To overcome multi-robot search problems consisting of task allocation, minimal routing and maximal coverage problems, this research proposes the MRSM algorithm.
+The clustering and routing constraints are reformulated into the intersection of matroids.
+With submodularity and matroid property, MRSM achieves $\frac{1}{3}\widetilde{OPT}$, where $\widetilde{OPT}$ is the optimal performance under the spanning tree structure. 
+Experiment results show that MRSM outperforms state-of-the-art approaches regarding ETTD in multi-robot search problems.
+
 
 The future work of this research is as follows.
-First, MRSM relies on known environments. The multi-robot search with an unknown map can be achieved by map exploration and a robot search approach.\cite{Lu2020map}
-Second, MRSM is an offline planning approach. Extending the current approach to plan a trajectory online via adaptive submodularity is another direction.\cite{golovin2011adaptive}
-Third, in EX2, where MRSM does not consistently surpass MRSIS-TSP\cite{li2024mrsis}, exploring the integration of both advantages becomes another viable direction.
+First, the multi-robot search with an unknown map could be achieved by map exploration and a robot search approach \cite{Lu2020map}. 
+Second, extending the MRSM to plan a trajectory online via adaptive submodularity is another direction \cite{golovin2011adaptive}. 
+Third, in EX2, where MRSM does not consistently surpass MRSIS-TSP \cite{li2024mrsis}, exploring the integration of both advantages becomes another viable direction.

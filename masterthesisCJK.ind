@@ -1,14 +1,19 @@
 \begin{theindex}
 
   \item \LaTeX
-    \subitem \textbackslash addcontentline, \hyperpage{vii}
-    \subitem \textbackslash hspace, \hyperpage{vii}
-    \subitem \textbackslash phantomsection, \hyperpage{vii}
+    \subitem \textbackslash addcontentline, \hyperpage{viii}
+    \subitem \textbackslash hspace, \hyperpage{viii}
+    \subitem \textbackslash phantomsection, \hyperpage{viii}
+
+  \indexspace
+
+  \item Acknowledgements, \hyperpage{iii}
 
   \indexspace
 
   \item ncuthesis 環境
     \subitem abstractcn, \hyperpage{i}
     \subitem abstracten, \hyperpage{ii}
+    \subitem acknowledgements, \hyperpage{iii}
 
 \end{theindex}

@@ -61,6 +61,7 @@
 \SetKwInOut{INIT}{Initialization}
 \usepackage{makecell}
 \usepackage{afterpage}
+\usepackage{booktabs}
 
 
 \dept{數學研究所}
@@ -92,13 +93,13 @@
 \addtocontents{toc}{~\hfill\textbf{Page}\par}
 %\includepdf[pages=-,scale=0.9]{4.pdf}
 %\includepdf[pages=-,scale=0.9]{3.pdf}
-%\includepdf[pages=-,scale=0.9]{1.pdf} % 插入其他表格
-%\includepdf[pages=-,scale=0.9]{2.pdf} % 插入其他表格
+\includepdf[pages=-,scale=0.9]{1.pdf} % 插入其他表格
+\includepdf[pages=-,scale=0.9]{2.pdf} % 插入其他表格
 
 \pagenumbering{roman}          % 羅馬數字編頁
 \include{abstractcn}
 \include{abstracten}                 % 摘要
-%\include{acknowledge}            % 謝誌
+\include{acknowledge}            % 謝誌
 \include{lists}
 \include{symbol}                     % 符號說明     symbols 環境
 \cleardoublepage

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.3) (preloaded format=pdflatex 2022.6.21)  25 APR 2024 17:56
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.3) (preloaded format=pdflatex 2022.6.21)  17 JUL 2024 16:16
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1009,15 +1009,35 @@ Package: afterpage 2014/10/28 v1.08 After-Page Package (DPC)
 \AP@output=\toks55
 \AP@partial=\box86
 \AP@footins=\box87
+)
+(C:\MiKTex\tex/latex/booktabs\booktabs.sty
+Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
+\heavyrulewidth=\dimen313
+\lightrulewidth=\dimen314
+\cmidrulewidth=\dimen315
+\belowrulesep=\dimen316
+\belowbottomsep=\dimen317
+\aboverulesep=\dimen318
+\abovetopsep=\dimen319
+\cmidrulesep=\dimen320
+\cmidrulekern=\dimen321
+\defaultaddspace=\dimen322
+\@cmidla=\count374
+\@cmidlb=\count375
+\@aboverulesep=\dimen323
+\@belowrulesep=\dimen324
+\@thisruleclass=\count376
+\@lastruleclass=\count377
+\@thisrulewidth=\dimen325
 ) (mypreamble.tex
-\c@theorem=\count374
-\c@pr=\count375
-\c@pf=\count376
-\c@algo=\count377
-\c@definition=\count378
-\c@lemma=\count379
-\c@corollary=\count380
-\c@problem=\count381
+\c@theorem=\count378
+\c@pr=\count379
+\c@pf=\count380
+\c@algo=\count381
+\c@definition=\count382
+\c@lemma=\count383
+\c@corollary=\count384
+\c@problem=\count385
 
 (C:\MiKTex\tex/latex/background\background.sty
 Package: background 2014/03/04 v2.1 background material
@@ -1050,109 +1070,109 @@ Writing index file masterthesisCJK.idx
 LaTeX Warning: Unused global option(s):
     [oneside].
 
-(masterthesisCJK.aux (abstractcn.aux) (abstracten.aux) (lists.aux) (symbol.aux)
-(chapter1.aux) (chapter2.aux) (chapter3.aux) (chapter4.aux) (chapter5.aux)
-(chapter6.aux) (chapter7.aux) (bibli.aux))
+(masterthesisCJK.aux (abstractcn.aux) (abstracten.aux) (acknowledge.aux)
+(lists.aux) (symbol.aux) (chapter1.aux) (chapter2.aux) (chapter3.aux)
+(chapter4.aux) (chapter5.aux) (chapter6.aux) (chapter7.aux) (bibli.aux))
 \openout1 = `masterthesisCJK.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 83.
-LaTeX Font Info:    ... okay on input line 83.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 83.
-LaTeX Font Info:    ... okay on input line 83.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 83.
-LaTeX Font Info:    ... okay on input line 83.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 83.
-LaTeX Font Info:    ... okay on input line 83.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 83.
-LaTeX Font Info:    ... okay on input line 83.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 83.
-LaTeX Font Info:    ... okay on input line 83.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 83.
-LaTeX Font Info:    ... okay on input line 83.
-LaTeX Font Info:    Checking defaults for C00/song/m/n on input line 83.
-LaTeX Font Info:    ... okay on input line 83.
-LaTeX Font Info:    Checking defaults for C05/song/m/n on input line 83.
-LaTeX Font Info:    ... okay on input line 83.
-LaTeX Font Info:    Checking defaults for C09/song/m/n on input line 83.
-LaTeX Font Info:    ... okay on input line 83.
-LaTeX Font Info:    Checking defaults for C10/song/m/n on input line 83.
-LaTeX Font Info:    ... okay on input line 83.
-LaTeX Font Info:    Checking defaults for C20/song/m/n on input line 83.
-LaTeX Font Info:    ... okay on input line 83.
-LaTeX Font Info:    Checking defaults for C19/song/m/n on input line 83.
-LaTeX Font Info:    ... okay on input line 83.
-LaTeX Font Info:    Checking defaults for C40/song/m/n on input line 83.
-LaTeX Font Info:    ... okay on input line 83.
-LaTeX Font Info:    Checking defaults for C42/song/m/n on input line 83.
-LaTeX Font Info:    ... okay on input line 83.
-LaTeX Font Info:    Checking defaults for C43/song/m/n on input line 83.
-LaTeX Font Info:    ... okay on input line 83.
-LaTeX Font Info:    Checking defaults for C50/song/m/n on input line 83.
-LaTeX Font Info:    ... okay on input line 83.
-LaTeX Font Info:    Checking defaults for C52/song/m/n on input line 83.
-LaTeX Font Info:    ... okay on input line 83.
-LaTeX Font Info:    Checking defaults for C49/song/m/n on input line 83.
-LaTeX Font Info:    ... okay on input line 83.
-LaTeX Font Info:    Checking defaults for C60/mj/m/n on input line 83.
-LaTeX Font Info:    ... okay on input line 83.
-LaTeX Font Info:    Checking defaults for C61/mj/m/n on input line 83.
-LaTeX Font Info:    ... okay on input line 83.
-LaTeX Font Info:    Checking defaults for C63/mj/m/n on input line 83.
-LaTeX Font Info:    ... okay on input line 83.
-LaTeX Font Info:    Checking defaults for C64/mj/m/n on input line 83.
-LaTeX Font Info:    ... okay on input line 83.
-LaTeX Font Info:    Checking defaults for C65/mj/m/n on input line 83.
-LaTeX Font Info:    ... okay on input line 83.
-LaTeX Font Info:    Checking defaults for C70/song/m/n on input line 83.
-LaTeX Font Info:    ... okay on input line 83.
-LaTeX Font Info:    Checking defaults for C31/song/m/n on input line 83.
-LaTeX Font Info:    ... okay on input line 83.
-LaTeX Font Info:    Checking defaults for C32/song/m/n on input line 83.
-LaTeX Font Info:    ... okay on input line 83.
-LaTeX Font Info:    Checking defaults for C33/song/m/n on input line 83.
-LaTeX Font Info:    ... okay on input line 83.
-LaTeX Font Info:    Checking defaults for C34/song/m/n on input line 83.
-LaTeX Font Info:    ... okay on input line 83.
-LaTeX Font Info:    Checking defaults for C35/song/m/n on input line 83.
-LaTeX Font Info:    ... okay on input line 83.
-LaTeX Font Info:    Checking defaults for C36/song/m/n on input line 83.
-LaTeX Font Info:    ... okay on input line 83.
-LaTeX Font Info:    Checking defaults for C37/song/m/n on input line 83.
-LaTeX Font Info:    ... okay on input line 83.
-LaTeX Font Info:    Checking defaults for C80/song/m/n on input line 83.
-LaTeX Font Info:    ... okay on input line 83.
-LaTeX Font Info:    Checking defaults for C81/song/m/n on input line 83.
-LaTeX Font Info:    ... okay on input line 83.
-LaTeX Font Info:    Checking defaults for C01/song/m/n on input line 83.
-LaTeX Font Info:    ... okay on input line 83.
-LaTeX Font Info:    Checking defaults for C11/song/m/n on input line 83.
-LaTeX Font Info:    ... okay on input line 83.
-LaTeX Font Info:    Checking defaults for C21/song/m/n on input line 83.
-LaTeX Font Info:    ... okay on input line 83.
-LaTeX Font Info:    Checking defaults for C41/song/m/n on input line 83.
-LaTeX Font Info:    ... okay on input line 83.
-LaTeX Font Info:    Checking defaults for C62/song/m/n on input line 83.
-LaTeX Font Info:    ... okay on input line 83.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 83.
-LaTeX Font Info:    ... okay on input line 83.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 83.
-LaTeX Font Info:    ... okay on input line 83.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 84.
+LaTeX Font Info:    ... okay on input line 84.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 84.
+LaTeX Font Info:    ... okay on input line 84.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 84.
+LaTeX Font Info:    ... okay on input line 84.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 84.
+LaTeX Font Info:    ... okay on input line 84.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 84.
+LaTeX Font Info:    ... okay on input line 84.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 84.
+LaTeX Font Info:    ... okay on input line 84.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 84.
+LaTeX Font Info:    ... okay on input line 84.
+LaTeX Font Info:    Checking defaults for C00/song/m/n on input line 84.
+LaTeX Font Info:    ... okay on input line 84.
+LaTeX Font Info:    Checking defaults for C05/song/m/n on input line 84.
+LaTeX Font Info:    ... okay on input line 84.
+LaTeX Font Info:    Checking defaults for C09/song/m/n on input line 84.
+LaTeX Font Info:    ... okay on input line 84.
+LaTeX Font Info:    Checking defaults for C10/song/m/n on input line 84.
+LaTeX Font Info:    ... okay on input line 84.
+LaTeX Font Info:    Checking defaults for C20/song/m/n on input line 84.
+LaTeX Font Info:    ... okay on input line 84.
+LaTeX Font Info:    Checking defaults for C19/song/m/n on input line 84.
+LaTeX Font Info:    ... okay on input line 84.
+LaTeX Font Info:    Checking defaults for C40/song/m/n on input line 84.
+LaTeX Font Info:    ... okay on input line 84.
+LaTeX Font Info:    Checking defaults for C42/song/m/n on input line 84.
+LaTeX Font Info:    ... okay on input line 84.
+LaTeX Font Info:    Checking defaults for C43/song/m/n on input line 84.
+LaTeX Font Info:    ... okay on input line 84.
+LaTeX Font Info:    Checking defaults for C50/song/m/n on input line 84.
+LaTeX Font Info:    ... okay on input line 84.
+LaTeX Font Info:    Checking defaults for C52/song/m/n on input line 84.
+LaTeX Font Info:    ... okay on input line 84.
+LaTeX Font Info:    Checking defaults for C49/song/m/n on input line 84.
+LaTeX Font Info:    ... okay on input line 84.
+LaTeX Font Info:    Checking defaults for C60/mj/m/n on input line 84.
+LaTeX Font Info:    ... okay on input line 84.
+LaTeX Font Info:    Checking defaults for C61/mj/m/n on input line 84.
+LaTeX Font Info:    ... okay on input line 84.
+LaTeX Font Info:    Checking defaults for C63/mj/m/n on input line 84.
+LaTeX Font Info:    ... okay on input line 84.
+LaTeX Font Info:    Checking defaults for C64/mj/m/n on input line 84.
+LaTeX Font Info:    ... okay on input line 84.
+LaTeX Font Info:    Checking defaults for C65/mj/m/n on input line 84.
+LaTeX Font Info:    ... okay on input line 84.
+LaTeX Font Info:    Checking defaults for C70/song/m/n on input line 84.
+LaTeX Font Info:    ... okay on input line 84.
+LaTeX Font Info:    Checking defaults for C31/song/m/n on input line 84.
+LaTeX Font Info:    ... okay on input line 84.
+LaTeX Font Info:    Checking defaults for C32/song/m/n on input line 84.
+LaTeX Font Info:    ... okay on input line 84.
+LaTeX Font Info:    Checking defaults for C33/song/m/n on input line 84.
+LaTeX Font Info:    ... okay on input line 84.
+LaTeX Font Info:    Checking defaults for C34/song/m/n on input line 84.
+LaTeX Font Info:    ... okay on input line 84.
+LaTeX Font Info:    Checking defaults for C35/song/m/n on input line 84.
+LaTeX Font Info:    ... okay on input line 84.
+LaTeX Font Info:    Checking defaults for C36/song/m/n on input line 84.
+LaTeX Font Info:    ... okay on input line 84.
+LaTeX Font Info:    Checking defaults for C37/song/m/n on input line 84.
+LaTeX Font Info:    ... okay on input line 84.
+LaTeX Font Info:    Checking defaults for C80/song/m/n on input line 84.
+LaTeX Font Info:    ... okay on input line 84.
+LaTeX Font Info:    Checking defaults for C81/song/m/n on input line 84.
+LaTeX Font Info:    ... okay on input line 84.
+LaTeX Font Info:    Checking defaults for C01/song/m/n on input line 84.
+LaTeX Font Info:    ... okay on input line 84.
+LaTeX Font Info:    Checking defaults for C11/song/m/n on input line 84.
+LaTeX Font Info:    ... okay on input line 84.
+LaTeX Font Info:    Checking defaults for C21/song/m/n on input line 84.
+LaTeX Font Info:    ... okay on input line 84.
+LaTeX Font Info:    Checking defaults for C41/song/m/n on input line 84.
+LaTeX Font Info:    ... okay on input line 84.
+LaTeX Font Info:    Checking defaults for C62/song/m/n on input line 84.
+LaTeX Font Info:    ... okay on input line 84.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 84.
+LaTeX Font Info:    ... okay on input line 84.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 84.
+LaTeX Font Info:    ... okay on input line 84.
 
 (C:\MiKTex\tex/context/base/mkii\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count382
-\scratchdimen=\dimen313
+\scratchcounter=\count386
+\scratchdimen=\dimen326
 \scratchbox=\box88
-\nofMPsegments=\count383
-\nofMParguments=\count384
+\nofMPsegments=\count387
+\nofMParguments=\count388
 \everyMPshowfont=\toks56
-\MPscratchCnt=\count385
-\MPscratchDim=\dimen314
-\MPnumerator=\count386
-\makeMPintoPDFobject=\count387
+\MPscratchCnt=\count389
+\MPscratchDim=\dimen327
+\MPnumerator=\count390
+\makeMPintoPDFobject=\count391
 \everyMPtoPDFconversion=\toks57
 )
-Package hyperref Info: Link coloring OFF on input line 83.
+Package hyperref Info: Link coloring OFF on input line 84.
  (masterthesisCJK.out) (masterthesisCJK.out)
 \@outlinefile=\write6
 \openout6 = `masterthesisCJK.out'.
@@ -1169,7 +1189,7 @@ File: UTF8.enc 2021/10/16 4.8.5
 File: UTF8.chr 2021/10/16 4.8.5
 )
 LaTeX Font Info:    Trying to load font information for C70+bkai on input line 
-88.
+89.
 
 (C:\MiKTex\tex/latex/cjk/UTF8\c70bkai.fd
 File: c70bkai.fd 2021/10/16 4.8.5
@@ -1177,19 +1197,19 @@ File: c70bkai.fd 2021/10/16 4.8.5
 (C:\MiKTex\tex/latex/cjk/UTF8\c70bkai.fdx
 File: c70bkai.fdx 2021/10/16 4.8.5
 )
-LaTeX Font Info:    Trying to load font information for U+msa on input line 88.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 89.
 
 
 (C:\MiKTex\tex/latex/amsfonts\umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 88.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 89.
 
  (C:\MiKTex\tex/latex/amsfonts\umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
 LaTeX Font Info:    Trying to load font information for U+esvect on input line 
-88.
+89.
 
 (C:\MiKTex\tex/latex/esvect\uesvect.fd
 File: uesvect.fd 
@@ -1200,17 +1220,90 @@ File: uesvect.fd
 
 
 ]
+<1.pdf, id=165, 614.295pt x 794.97pt>
+File: 1.pdf Graphic file (type pdf)
+<use 1.pdf>
+Package pdftex.def Info: 1.pdf  used on input line 96.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+File: 1.pdf Graphic file (type pdf)
+<use 1.pdf>
+Package pdftex.def Info: 1.pdf  used on input line 96.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+<1.pdf, id=168, page=1, 614.295pt x 794.97pt>
+File: 1.pdf Graphic file (type pdf)
+<use 1.pdf, page 1>
+Package pdftex.def Info: 1.pdf , page1 used on input line 96.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+File: 1.pdf Graphic file (type pdf)
+<use 1.pdf, page 1>
+Package pdftex.def Info: 1.pdf , page1 used on input line 96.
+(pdftex.def)             Requested size: 552.86038pt x 715.4664pt.
+File: 1.pdf Graphic file (type pdf)
+<use 1.pdf, page 1>
+Package pdftex.def Info: 1.pdf , page1 used on input line 96.
+(pdftex.def)             Requested size: 552.86038pt x 715.4664pt.
+File: 1.pdf Graphic file (type pdf)
+<use 1.pdf, page 1>
+Package pdftex.def Info: 1.pdf , page1 used on input line 96.
+(pdftex.def)             Requested size: 552.86038pt x 715.4664pt.
+File: 1.pdf Graphic file (type pdf)
+<use 1.pdf, page 1>
+Package pdftex.def Info: 1.pdf , page1 used on input line 96.
+(pdftex.def)             Requested size: 552.86038pt x 715.4664pt.
+<NCUlogo.jpg, id=169, 60.225pt x 50.589pt>
+File: NCUlogo.jpg Graphic file (type jpg)
+<use NCUlogo.jpg>
+Package pdftex.def Info: NCUlogo.jpg  used on input line 96.
+(pdftex.def)             Requested size: 60.22484pt x 50.58887pt.
+ [3
+
+
+ <./1.pdf> <./NCUlogo.jpg>]
+<2.pdf, id=178, 614.295pt x 794.97pt>
+File: 2.pdf Graphic file (type pdf)
+<use 2.pdf>
+Package pdftex.def Info: 2.pdf  used on input line 97.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+File: 2.pdf Graphic file (type pdf)
+<use 2.pdf>
+Package pdftex.def Info: 2.pdf  used on input line 97.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+<2.pdf, id=181, page=1, 614.295pt x 794.97pt>
+File: 2.pdf Graphic file (type pdf)
+<use 2.pdf, page 1>
+Package pdftex.def Info: 2.pdf , page1 used on input line 97.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+File: 2.pdf Graphic file (type pdf)
+<use 2.pdf, page 1>
+Package pdftex.def Info: 2.pdf , page1 used on input line 97.
+(pdftex.def)             Requested size: 552.86038pt x 715.4664pt.
+File: 2.pdf Graphic file (type pdf)
+<use 2.pdf, page 1>
+Package pdftex.def Info: 2.pdf , page1 used on input line 97.
+(pdftex.def)             Requested size: 552.86038pt x 715.4664pt.
+File: 2.pdf Graphic file (type pdf)
+<use 2.pdf, page 1>
+Package pdftex.def Info: 2.pdf , page1 used on input line 97.
+(pdftex.def)             Requested size: 552.86038pt x 715.4664pt.
+File: 2.pdf Graphic file (type pdf)
+<use 2.pdf, page 1>
+Package pdftex.def Info: 2.pdf , page1 used on input line 97.
+(pdftex.def)             Requested size: 552.86038pt x 715.4664pt.
+File: NCUlogo.jpg Graphic file (type jpg)
+<use NCUlogo.jpg>
+Package pdftex.def Info: NCUlogo.jpg  used on input line 97.
+(pdftex.def)             Requested size: 60.22484pt x 50.58887pt.
+ [4 <./2.pdf>]
 \openout2 = `abstractcn.aux'.
 
- (abstractcn.tex
+
+(abstractcn.tex
 LaTeX Font Info:    Trying to load font information for T1+cmss on input line 6
 .
-
-(C:\MiKTex\tex/latex/base\t1cmss.fd
+ (C:\MiKTex\tex/latex/base\t1cmss.fd
 File: t1cmss.fd 2019/12/16 v2.5j Standard LaTeX font definitions
 )
 LaTeX Font Info:    Calculating math sizes for size <14> on input line 14.
-<NCUlogo.jpg, id=199, 60.225pt x 50.589pt>
 File: NCUlogo.jpg Graphic file (type jpg)
 <use NCUlogo.jpg>
 Package pdftex.def Info: NCUlogo.jpg  used on input line 16.
@@ -1219,9 +1312,7 @@ Package pdftex.def Info: NCUlogo.jpg  used on input line 16.
 
 
 
-
-
- <./NCUlogo.jpg>])
+])
 \openout2 = `abstracten.aux'.
 
  (abstracten.tex
@@ -1238,15 +1329,12 @@ Package pdftex.def Info: NCUlogo.jpg  used on input line 14.
 
 
 ])
-\openout2 = `lists.aux'.
+\openout2 = `acknowledge.aux'.
 
- (lists.tex (masterthesisCJK.toc)
-\tf@toc=\write7
-\openout7 = `masterthesisCJK.toc'.
-
+ (acknowledge.tex
 File: NCUlogo.jpg Graphic file (type jpg)
 <use NCUlogo.jpg>
-Package pdftex.def Info: NCUlogo.jpg  used on input line 4.
+Package pdftex.def Info: NCUlogo.jpg  used on input line 10.
 (pdftex.def)             Requested size: 60.22484pt x 50.58887pt.
  [3
 
@@ -1255,7 +1343,35 @@ Package pdftex.def Info: NCUlogo.jpg  used on input line 4.
 
 
 
+])
+\openout2 = `lists.aux'.
+
+ (lists.tex (masterthesisCJK.toc
+Overfull \hbox (3.15169pt too wide) detected at line 7
+ []\T1/cmr/m/n/14.4 viii[]
+ []
+
+)
+\tf@toc=\write7
+\openout7 = `masterthesisCJK.toc'.
+
+File: NCUlogo.jpg Graphic file (type jpg)
+<use NCUlogo.jpg>
+Package pdftex.def Info: NCUlogo.jpg  used on input line 4.
+(pdftex.def)             Requested size: 60.22484pt x 50.58887pt.
+ [4
+
+
+
+
+
+
 ] (masterthesisCJK.lof
+Overfull \hbox (3.1124pt too wide) in paragraph at lines 2--2
+ \T1/cmr/m/n/14.4 search en-vi-ron-ment. (b) The pro-posed al-go-rithm (MRSM) 
+ []
+
+
 Overfull \hbox (5.6356pt too wide) in paragraph at lines 4--4
  [][] [][]\T1/cmr/m/n/14.4 Illustration of sub-mod-u-lar-ity un-der cov-er-age 
 sce-nario. The 
@@ -1265,7 +1381,7 @@ File: NCUlogo.jpg Graphic file (type jpg)
 <use NCUlogo.jpg>
 Package pdftex.def Info: NCUlogo.jpg  used on input line 7.
 (pdftex.def)             Requested size: 60.22484pt x 50.58887pt.
-[4
+[5
 
 
 ]
@@ -1283,7 +1399,7 @@ File: NCUlogo.jpg Graphic file (type jpg)
 <use NCUlogo.jpg>
 Package pdftex.def Info: NCUlogo.jpg  used on input line 14.
 (pdftex.def)             Requested size: 60.22484pt x 50.58887pt.
-[5])
+[6])
 \tf@lof=\write8
 \openout8 = `masterthesisCJK.lof'.
 
@@ -1291,16 +1407,16 @@ File: NCUlogo.jpg Graphic file (type jpg)
 <use NCUlogo.jpg>
 Package pdftex.def Info: NCUlogo.jpg  used on input line 8.
 (pdftex.def)             Requested size: 60.22484pt x 50.58887pt.
- [6] (masterthesisCJK.lot)
+ [7] (masterthesisCJK.lot)
 \tf@lot=\write9
 \openout9 = `masterthesisCJK.lot'.
 
 )
 File: NCUlogo.jpg Graphic file (type jpg)
 <use NCUlogo.jpg>
-Package pdftex.def Info: NCUlogo.jpg  used on input line 102.
+Package pdftex.def Info: NCUlogo.jpg  used on input line 103.
 (pdftex.def)             Requested size: 60.22484pt x 50.58887pt.
- [7
+ [8
 
 
 ]
@@ -1312,14 +1428,14 @@ No file symbol.tex.
 
 (chapter1.tex
 Chapter 1.
-<./figures//overview-2.png, id=463, 848.57025pt x 311.36325pt>
-File: ./figures//overview-2.png Graphic file (type png)
-<use ./figures//overview-2.png>
-Package pdftex.def Info: ./figures//overview-2.png  used on input line 28.
-(pdftex.def)             Requested size: 426.79134pt x 156.59818pt.
+<./figures//overview-3.png, id=522, 1058.45438pt x 389.20406pt>
+File: ./figures//overview-3.png Graphic file (type png)
+<use ./figures//overview-3.png>
+Package pdftex.def Info: ./figures//overview-3.png  used on input line 26.
+(pdftex.def)             Requested size: 426.79134pt x 156.93195pt.
 File: NCUlogo.jpg Graphic file (type jpg)
 <use NCUlogo.jpg>
-Package pdftex.def Info: NCUlogo.jpg  used on input line 58.
+Package pdftex.def Info: NCUlogo.jpg  used on input line 56.
 (pdftex.def)             Requested size: 60.22484pt x 50.58887pt.
 [1
 
@@ -1335,12 +1451,17 @@ File: NCUlogo.jpg Graphic file (type jpg)
 <use NCUlogo.jpg>
 Package pdftex.def Info: NCUlogo.jpg  used on input line 68.
 (pdftex.def)             Requested size: 60.22484pt x 50.58887pt.
- [2 <./figures//overview-2.png>])
+ [2 <./figures//overview-3.png>]
 File: NCUlogo.jpg Graphic file (type jpg)
 <use NCUlogo.jpg>
-Package pdftex.def Info: NCUlogo.jpg  used on input line 108.
+Package pdftex.def Info: NCUlogo.jpg  used on input line 90.
 (pdftex.def)             Requested size: 60.22484pt x 50.58887pt.
- [3]
+ [3])
+File: NCUlogo.jpg Graphic file (type jpg)
+<use NCUlogo.jpg>
+Package pdftex.def Info: NCUlogo.jpg  used on input line 109.
+(pdftex.def)             Requested size: 60.22484pt x 50.58887pt.
+ [4]
 \openout2 = `chapter2.aux'.
 
  (chapter2.tex
@@ -1355,7 +1476,7 @@ File: NCUlogo.jpg Graphic file (type jpg)
 <use NCUlogo.jpg>
 Package pdftex.def Info: NCUlogo.jpg  used on input line 19.
 (pdftex.def)             Requested size: 60.22484pt x 50.58887pt.
-[4
+[5
 
 
 
@@ -1370,23 +1491,23 @@ File: NCUlogo.jpg Graphic file (type jpg)
 <use NCUlogo.jpg>
 Package pdftex.def Info: NCUlogo.jpg  used on input line 35.
 (pdftex.def)             Requested size: 60.22484pt x 50.58887pt.
-[5]
+[6]
 File: NCUlogo.jpg Graphic file (type jpg)
 <use NCUlogo.jpg>
 Package pdftex.def Info: NCUlogo.jpg  used on input line 54.
 (pdftex.def)             Requested size: 60.22484pt x 50.58887pt.
- [6]
-<./figures//cov-1.png, id=571, 359.84438pt x 309.40594pt>
+ [7]
+<./figures//cov-1.png, id=638, 359.84438pt x 309.40594pt>
 File: ./figures//cov-1.png Graphic file (type png)
 <use ./figures//cov-1.png>
 Package pdftex.def Info: ./figures//cov-1.png  used on input line 71.
 (pdftex.def)             Requested size: 149.37956pt x 128.44356pt.
-<./figures//cov-2.png, id=572, 360.59718pt x 303.38344pt>
+<./figures//cov-2.png, id=639, 360.59718pt x 303.38344pt>
 File: ./figures//cov-2.png Graphic file (type png)
 <use ./figures//cov-2.png>
 Package pdftex.def Info: ./figures//cov-2.png  used on input line 78.
 (pdftex.def)             Requested size: 149.37956pt x 125.67494pt.
-<./figures//cov-12.png, id=573, 670.30424pt x 244.5135pt>
+<./figures//cov-12.png, id=640, 670.30424pt x 244.5135pt>
 File: ./figures//cov-12.png Graphic file (type png)
 <use ./figures//cov-12.png>
 Package pdftex.def Info: ./figures//cov-12.png  used on input line 85.
@@ -1394,14 +1515,14 @@ Package pdftex.def Info: ./figures//cov-12.png  used on input line 85.
 )
 File: NCUlogo.jpg Graphic file (type jpg)
 <use NCUlogo.jpg>
-Package pdftex.def Info: NCUlogo.jpg  used on input line 109.
+Package pdftex.def Info: NCUlogo.jpg  used on input line 110.
 (pdftex.def)             Requested size: 60.22484pt x 50.58887pt.
- [7]
+ [8]
 File: NCUlogo.jpg Graphic file (type jpg)
 <use NCUlogo.jpg>
-Package pdftex.def Info: NCUlogo.jpg  used on input line 109.
+Package pdftex.def Info: NCUlogo.jpg  used on input line 110.
 (pdftex.def)             Requested size: 60.22484pt x 50.58887pt.
- [8 <./figures//cov-1.png> <./figures//cov-2.png> <./figures//cov-12.png>]
+ [9 <./figures//cov-1.png> <./figures//cov-2.png> <./figures//cov-12.png>]
 \openout2 = `chapter3.aux'.
 
  (chapter3.tex
@@ -1421,17 +1542,17 @@ Underfull \hbox (badness 10000) in paragraph at lines 18--20
 
  []
 
-<./figures//def-mat-0.png, id=605, 285.4665pt x 242.70676pt>
+<./figures//def-mat-0.png, id=672, 285.4665pt x 242.70676pt>
 File: ./figures//def-mat-0.png Graphic file (type png)
 <use ./figures//def-mat-0.png>
 Package pdftex.def Info: ./figures//def-mat-0.png  used on input line 51.
 (pdftex.def)             Requested size: 128.0387pt x 108.8615pt.
-<./figures//def-mat-1.png, id=606, 286.671pt x 242.70676pt>
+<./figures//def-mat-1.png, id=673, 286.671pt x 242.70676pt>
 File: ./figures//def-mat-1.png Graphic file (type png)
 <use ./figures//def-mat-1.png>
 Package pdftex.def Info: ./figures//def-mat-1.png  used on input line 58.
 (pdftex.def)             Requested size: 128.0387pt x 108.40598pt.
-<./figures//def-mat-2.png, id=607, 285.4665pt x 240.29774pt>
+<./figures//def-mat-2.png, id=674, 285.4665pt x 240.29774pt>
 File: ./figures//def-mat-2.png Graphic file (type png)
 <use ./figures//def-mat-2.png>
 Package pdftex.def Info: ./figures//def-mat-2.png  used on input line 65.
@@ -1440,7 +1561,7 @@ File: NCUlogo.jpg Graphic file (type jpg)
 <use NCUlogo.jpg>
 Package pdftex.def Info: NCUlogo.jpg  used on input line 75.
 (pdftex.def)             Requested size: 60.22484pt x 50.58887pt.
-[9
+[10
 
 
 
@@ -1474,24 +1595,24 @@ File: NCUlogo.jpg Graphic file (type jpg)
 <use NCUlogo.jpg>
 Package pdftex.def Info: NCUlogo.jpg  used on input line 95.
 (pdftex.def)             Requested size: 60.22484pt x 50.58887pt.
-[10 <./figures//def-mat-0.png> <./figures//def-mat-1.png> <./figures//def-mat-2
+[11 <./figures//def-mat-0.png> <./figures//def-mat-1.png> <./figures//def-mat-2
 .png>]
-Underfull \hbox (badness 10000) in paragraph at lines 102--103
+Underfull \hbox (badness 10000) in paragraph at lines 104--105
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 106--109
+Underfull \hbox (badness 10000) in paragraph at lines 108--111
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 110--112
+Underfull \hbox (badness 10000) in paragraph at lines 112--114
 
  []
 
 
-Overfull \hbox (9.69421pt too wide) in paragraph at lines 114--116
+Overfull \hbox (9.69421pt too wide) in paragraph at lines 116--118
 []\T1/cmr/m/n/14.4 To il-lus-trate the con-cept, let $\OT1/cmr/m/n/14.4 (\OML/c
 mm/m/it/14.4 E; \OMS/cmsy/m/n/14.4 I[]\OT1/cmr/m/n/14.4 )$ \T1/cmr/m/n/14.4 and
  $\OT1/cmr/m/n/14.4 (\OML/cmm/m/it/14.4 E; \OMS/cmsy/m/n/14.4 I[]\OT1/cmr/m/n/1
@@ -1500,87 +1621,92 @@ ence
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 114--116
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 124--125
+Underfull \hbox (badness 10000) in paragraph at lines 116--118
 
  []
 
 File: NCUlogo.jpg Graphic file (type jpg)
 <use NCUlogo.jpg>
-Package pdftex.def Info: NCUlogo.jpg  used on input line 125.
-(pdftex.def)             Requested size: 60.22484pt x 50.58887pt.
-[11]
-Underfull \hbox (badness 10000) in paragraph at lines 132--134
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 136--139
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 140--143
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 144--146
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 148--151
-
- []
-
-File: NCUlogo.jpg Graphic file (type jpg)
-<use NCUlogo.jpg>
-Package pdftex.def Info: NCUlogo.jpg  used on input line 153.
+Package pdftex.def Info: NCUlogo.jpg  used on input line 119.
 (pdftex.def)             Requested size: 60.22484pt x 50.58887pt.
 [12]
-Overfull \hbox (2.09413pt too wide) in paragraph at lines 153--155
-[][]\T1/cmr/bx/n/14.4 Theorem 3.6. []\T1/cmr/m/it/14.4 (Sub-mod-u-lar-ity of ba
-l-anc-ing func-tion) [[]38[]] Given a graph
+Underfull \hbox (badness 10000) in paragraph at lines 126--127
+
  []
 
 
-Overfull \hbox (1.1644pt too wide) in paragraph at lines 160--161
+Underfull \hbox (badness 10000) in paragraph at lines 134--136
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 138--141
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 142--145
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 146--148
+
+ []
+
+File: NCUlogo.jpg Graphic file (type jpg)
+<use NCUlogo.jpg>
+Package pdftex.def Info: NCUlogo.jpg  used on input line 148.
+(pdftex.def)             Requested size: 60.22484pt x 50.58887pt.
+[13]
+Underfull \hbox (badness 10000) in paragraph at lines 150--153
+
+ []
+
+
+Overfull \hbox (2.09413pt too wide) in paragraph at lines 155--157
+[][]\T1/cmr/bx/n/14.4 Theorem 3.6. []\T1/cmr/m/it/14.4 (Sub-mod-u-lar-ity of ba
+l-anc-ing func-tion) [[]36[]] Given a graph
+ []
+
+
+Overfull \hbox (1.1644pt too wide) in paragraph at lines 162--163
 []\T1/cmr/m/it/14.4 The bal-anc-ing func-tion en-cour-ages the clus-ters to hav
 e sim-i-lar sizes.
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 160--161
+Underfull \hbox (badness 10000) in paragraph at lines 162--163
 
  []
 
-<./figures//-1.01.png, id=670, 288.47775pt x 245.11575pt>
+<./figures//-1.01.png, id=737, 288.47775pt x 245.11575pt>
 File: ./figures//-1.01.png Graphic file (type png)
 <use ./figures//-1.01.png>
-Package pdftex.def Info: ./figures//-1.01.png  used on input line 167.
+Package pdftex.def Info: ./figures//-1.01.png  used on input line 169.
 (pdftex.def)             Requested size: 170.71393pt x 145.05463pt.
-<./figures//-1.24.png, id=671, 286.06876pt x 245.11575pt>
+<./figures//-1.24.png, id=738, 286.06876pt x 245.11575pt>
 File: ./figures//-1.24.png Graphic file (type png)
 <use ./figures//-1.24.png>
-Package pdftex.def Info: ./figures//-1.24.png  used on input line 173.
+Package pdftex.def Info: ./figures//-1.24.png  used on input line 175.
 (pdftex.def)             Requested size: 170.71393pt x 146.27766pt.
 )
 File: NCUlogo.jpg Graphic file (type jpg)
 <use NCUlogo.jpg>
-Package pdftex.def Info: NCUlogo.jpg  used on input line 110.
+Package pdftex.def Info: NCUlogo.jpg  used on input line 111.
 (pdftex.def)             Requested size: 60.22484pt x 50.58887pt.
- [13 <./figures//-1.01.png> <./figures//-1.24.png>]
+ [14]
+File: NCUlogo.jpg Graphic file (type jpg)
+<use NCUlogo.jpg>
+Package pdftex.def Info: NCUlogo.jpg  used on input line 111.
+(pdftex.def)             Requested size: 60.22484pt x 50.58887pt.
+ [15 <./figures//-1.01.png> <./figures//-1.24.png>]
 \openout2 = `chapter4.aux'.
 
  (chapter4.tex
 Chapter 4.
 
-Underfull \hbox (badness 10000) in paragraph at lines 6--7
+Underfull \hbox (badness 10000) in paragraph at lines 6--8
 
  []
 
@@ -1593,7 +1719,7 @@ File: NCUlogo.jpg Graphic file (type jpg)
 <use NCUlogo.jpg>
 Package pdftex.def Info: NCUlogo.jpg  used on input line 21.
 (pdftex.def)             Requested size: 60.22484pt x 50.58887pt.
-[14
+[16
 
 
 
@@ -1603,12 +1729,12 @@ File: NCUlogo.jpg Graphic file (type jpg)
 <use NCUlogo.jpg>
 Package pdftex.def Info: NCUlogo.jpg  used on input line 45.
 (pdftex.def)             Requested size: 60.22484pt x 50.58887pt.
- [15]
+ [17]
 File: NCUlogo.jpg Graphic file (type jpg)
 <use NCUlogo.jpg>
 Package pdftex.def Info: NCUlogo.jpg  used on input line 77.
 (pdftex.def)             Requested size: 60.22484pt x 50.58887pt.
- [16]
+ [18]
 Underfull \hbox (badness 10000) in paragraph at lines 99--101
 
  []
@@ -1617,7 +1743,7 @@ File: NCUlogo.jpg Graphic file (type jpg)
 <use NCUlogo.jpg>
 Package pdftex.def Info: NCUlogo.jpg  used on input line 115.
 (pdftex.def)             Requested size: 60.22484pt x 50.58887pt.
-[17]
+[19]
 Underfull \hbox (badness 10000) in paragraph at lines 136--137
 
  []
@@ -1631,13 +1757,13 @@ File: NCUlogo.jpg Graphic file (type jpg)
 <use NCUlogo.jpg>
 Package pdftex.def Info: NCUlogo.jpg  used on input line 145.
 (pdftex.def)             Requested size: 60.22484pt x 50.58887pt.
-[18]
-<./figures//mat-1.png, id=737, 288.47775pt x 245.11575pt>
+[20]
+<./figures//mat-1.png, id=808, 288.47775pt x 245.11575pt>
 File: ./figures//mat-1.png Graphic file (type png)
 <use ./figures//mat-1.png>
 Package pdftex.def Info: ./figures//mat-1.png  used on input line 149.
 (pdftex.def)             Requested size: 170.71393pt x 145.05463pt.
-<./figures//mat-2.png, id=738, 285.4665pt x 242.1045pt>
+<./figures//mat-2.png, id=809, 285.4665pt x 242.1045pt>
 File: ./figures//mat-2.png Graphic file (type png)
 <use ./figures//mat-2.png>
 Package pdftex.def Info: ./figures//mat-2.png  used on input line 156.
@@ -1645,9 +1771,9 @@ Package pdftex.def Info: ./figures//mat-2.png  used on input line 156.
 )
 File: NCUlogo.jpg Graphic file (type jpg)
 <use NCUlogo.jpg>
-Package pdftex.def Info: NCUlogo.jpg  used on input line 111.
+Package pdftex.def Info: NCUlogo.jpg  used on input line 112.
 (pdftex.def)             Requested size: 60.22484pt x 50.58887pt.
- [19 <./figures//mat-1.png> <./figures//mat-2.png>]
+ [21 <./figures//mat-1.png> <./figures//mat-2.png>]
 \openout2 = `chapter5.aux'.
 
  (chapter5.tex
@@ -1660,9 +1786,9 @@ Overfull \hbox (28.45274pt too wide) detected at line 46
 )
 File: NCUlogo.jpg Graphic file (type jpg)
 <use NCUlogo.jpg>
-Package pdftex.def Info: NCUlogo.jpg  used on input line 112.
+Package pdftex.def Info: NCUlogo.jpg  used on input line 113.
 (pdftex.def)             Requested size: 60.22484pt x 50.58887pt.
- [20
+ [22
 
 
 
@@ -1670,14 +1796,14 @@ Package pdftex.def Info: NCUlogo.jpg  used on input line 112.
 ]
 File: NCUlogo.jpg Graphic file (type jpg)
 <use NCUlogo.jpg>
-Package pdftex.def Info: NCUlogo.jpg  used on input line 112.
+Package pdftex.def Info: NCUlogo.jpg  used on input line 113.
 (pdftex.def)             Requested size: 60.22484pt x 50.58887pt.
- [21]
+ [23]
 \openout2 = `chapter6.aux'.
 
  (chapter6.tex
 Chapter 6.
-<./figures//gazebo-env-1.png, id=774, 655.248pt x 401.0985pt>
+<./figures//gazebo-env-1.png, id=845, 655.248pt x 401.0985pt>
 File: ./figures//gazebo-env-1.png Graphic file (type png)
 <use ./figures//gazebo-env-1.png>
 Package pdftex.def Info: ./figures//gazebo-env-1.png  used on input line 14.
@@ -1690,15 +1816,15 @@ ty anal-y-sis (EX3).
 
 File: NCUlogo.jpg Graphic file (type jpg)
 <use NCUlogo.jpg>
-Package pdftex.def Info: NCUlogo.jpg  used on input line 34.
+Package pdftex.def Info: NCUlogo.jpg  used on input line 35.
 (pdftex.def)             Requested size: 60.22484pt x 50.58887pt.
-[22
+[24
 
 
 
 
 ]
-Overfull \hbox (12.59921pt too wide) in paragraph at lines 35--37
+Overfull \hbox (72.2197pt too wide) in paragraph at lines 36--38
 \OMS/cmsy/m/n/14.4 f\OT1/cmr/m/n/14.4 (\OML/cmm/m/it/14.4 x; y; z; ^^R\OT1/cmr/
 m/n/14.4 )\OMS/cmsy/m/n/14.4 j\OT1/cmr/m/n/14.4 (\OML/cmm/m/it/14.4 x; y; z; ^^
 R\OT1/cmr/m/n/14.4 ) \OMS/cmsy/m/n/14.4 2 Vg$\T1/cmr/m/n/14.4 , where $\OML/cmm
@@ -1706,149 +1832,179 @@ R\OT1/cmr/m/n/14.4 ) \OMS/cmsy/m/n/14.4 2 Vg$\T1/cmr/m/n/14.4 , where $\OML/cmm
 ; e\OT1/cmr/m/n/14.4 ]$ \T1/cmr/m/n/14.4 and $\OML/cmm/m/it/14.4 ^^R \OMS/cmsy/
 m/n/14.4 2 f\OT1/cmr/m/n/14.4 0\OML/cmm/m/it/14.4 ; \OT1/cmr/m/n/14.4 60\OML/cm
 m/m/it/14.4 ; \OT1/cmr/m/n/14.4 120\OML/cmm/m/it/14.4 ; \OT1/cmr/m/n/14.4 180\O
-ML/cmm/m/it/14.4 ; [] 
+ML/cmm/m/it/14.4 ; \OT1/cmr/m/n/14.4 240\OML/cmm/m/it/14.4 ; \OT1/cmr/m/n/14.4 
+300\OMS/cmsy/m/n/14.4 g$\T1/cmr/m/n/14.4 . 
  []
 
 File: NCUlogo.jpg Graphic file (type jpg)
 <use NCUlogo.jpg>
-Package pdftex.def Info: NCUlogo.jpg  used on input line 52.
+Package pdftex.def Info: NCUlogo.jpg  used on input line 54.
 (pdftex.def)             Requested size: 60.22484pt x 50.58887pt.
-[23 <./figures//gazebo-env-1.png>]
+[25 <./figures//gazebo-env-1.png>]
+Overfull \hbox (0.94218pt too wide) in paragraph at lines 70--76
+\T1/cmr/m/n/14.4 mance is eval-u-ated on dif-fer-ent num-bers of sub-goals $\OM
+S/cmsy/m/n/14.4 V \OT1/cmr/m/n/14.4 = \OMS/cmsy/m/n/14.4 f\OT1/cmr/m/n/14.4 700
+\OML/cmm/m/it/14.4 ; \OT1/cmr/m/n/14.4 800\OML/cmm/m/it/14.4 ; \OT1/cmr/m/n/14.
+4 900\OMS/cmsy/m/n/14.4 g$\T1/cmr/m/n/14.4 .
+ []
+
 File: NCUlogo.jpg Graphic file (type jpg)
 <use NCUlogo.jpg>
-Package pdftex.def Info: NCUlogo.jpg  used on input line 71.
+Package pdftex.def Info: NCUlogo.jpg  used on input line 76.
 (pdftex.def)             Requested size: 60.22484pt x 50.58887pt.
- [24]
-<./figures//GEB.png, id=814, 592.614pt x 625.73775pt>
+[26]
+<./figures//GEB.png, id=888, 592.614pt x 625.73775pt>
 File: ./figures//GEB.png Graphic file (type png)
 <use ./figures//GEB.png>
-Package pdftex.def Info: ./figures//GEB.png  used on input line 99.
+Package pdftex.def Info: ./figures//GEB.png  used on input line 107.
 (pdftex.def)             Requested size: 213.39566pt x 225.32271pt.
-<./figures//exp.png, id=815, 690.1785pt x 350.5095pt>
+<./figures//exp.png, id=889, 690.1785pt x 350.5095pt>
 File: ./figures//exp.png Graphic file (type png)
 <use ./figures//exp.png>
-Package pdftex.def Info: ./figures//exp.png  used on input line 104.
+Package pdftex.def Info: ./figures//exp.png  used on input line 112.
 (pdftex.def)             Requested size: 213.39566pt x 108.37335pt.
-<./figures//uav.png, id=816, 1156.32pt x 650.43pt>
+<./figures//map_call.png, id=890, 596.2275pt x 781.41937pt>
+File: ./figures//map_call.png Graphic file (type png)
+<use ./figures//map_call.png>
+Package pdftex.def Info: ./figures//map_call.png  used on input line 124.
+(pdftex.def)             Requested size: 89.62904pt x 117.45824pt.
+<./figures//Call_uav.png, id=891, 918.43124pt x 612.78937pt>
+File: ./figures//Call_uav.png Graphic file (type png)
+<use ./figures//Call_uav.png>
+Package pdftex.def Info: ./figures//Call_uav.png  used on input line 129.
+(pdftex.def)             Requested size: 110.9634pt x 74.03647pt.
+<./figures//uav.png, id=892, 1156.32pt x 650.43pt>
 File: ./figures//uav.png Graphic file (type png)
 <use ./figures//uav.png>
-Package pdftex.def Info: ./figures//uav.png  used on input line 114.
+Package pdftex.def Info: ./figures//uav.png  used on input line 139.
 (pdftex.def)             Requested size: 256.0774pt x 144.03789pt.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 119.
+(hyperref)                removing `math shift' on input line 144.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 119.
+(hyperref)                removing `math shift' on input line 144.
 
 File: NCUlogo.jpg Graphic file (type jpg)
 <use NCUlogo.jpg>
-Package pdftex.def Info: NCUlogo.jpg  used on input line 134.
-(pdftex.def)             Requested size: 60.22484pt x 50.58887pt.
-[25]
-File: NCUlogo.jpg Graphic file (type jpg)
-<use NCUlogo.jpg>
-Package pdftex.def Info: NCUlogo.jpg  used on input line 134.
-(pdftex.def)             Requested size: 60.22484pt x 50.58887pt.
- [26 <./figures//GEB.png> <./figures//exp.png> <./figures//uav.png>]
-
-LaTeX Warning: No positions in optional float specifier.
-               Default added (so using `tbp') on input line 148.
-
-
-LaTeX Warning: No positions in optional float specifier.
-               Default added (so using `tbp') on input line 216.
-
-
-LaTeX Warning: No positions in optional float specifier.
-               Default added (so using `tbp') on input line 285.
-
-<./figures//MRSIS-TSP-cov.png, id=872, 578.16pt x 578.16pt>
-File: ./figures//MRSIS-TSP-cov.png Graphic file (type png)
-<use ./figures//MRSIS-TSP-cov.png>
-Package pdftex.def Info: ./figures//MRSIS-TSP-cov.png  used on input line 305.
-(pdftex.def)             Requested size: 192.0548pt x 192.05493pt.
-<./figures//MRSM-cov.png, id=875, 578.16pt x 578.16pt>
-File: ./figures//MRSM-cov.png Graphic file (type png)
-<use ./figures//MRSM-cov.png>
-Package pdftex.def Info: ./figures//MRSM-cov.png  used on input line 312.
-(pdftex.def)             Requested size: 192.0548pt x 192.05493pt.
-<./figures//MRSIS-TSP.png, id=876, 505.89pt x 433.62pt>
-File: ./figures//MRSIS-TSP.png Graphic file (type png)
-<use ./figures//MRSIS-TSP.png>
-Package pdftex.def Info: ./figures//MRSIS-TSP.png  used on input line 323.
-(pdftex.def)             Requested size: 192.0548pt x 164.61852pt.
-<./figures//MRSM.png, id=879, 505.89pt x 433.62pt>
-File: ./figures//MRSM.png Graphic file (type png)
-<use ./figures//MRSM.png>
-Package pdftex.def Info: ./figures//MRSM.png  used on input line 330.
-(pdftex.def)             Requested size: 192.0548pt x 164.61852pt.
-
-LaTeX Warning: No positions in optional float specifier.
-               Default added (so using `tbp') on input line 339.
-
-
-LaTeX Warning: No positions in optional float specifier.
-               Default added (so using `tbp') on input line 578.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 818.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 818.
-
-File: NCUlogo.jpg Graphic file (type jpg)
-<use NCUlogo.jpg>
-Package pdftex.def Info: NCUlogo.jpg  used on input line 820.
+Package pdftex.def Info: NCUlogo.jpg  used on input line 153.
 (pdftex.def)             Requested size: 60.22484pt x 50.58887pt.
 [27]
 File: NCUlogo.jpg Graphic file (type jpg)
 <use NCUlogo.jpg>
-Package pdftex.def Info: NCUlogo.jpg  used on input line 820.
+Package pdftex.def Info: NCUlogo.jpg  used on input line 153.
 (pdftex.def)             Requested size: 60.22484pt x 50.58887pt.
- [28 <./figures//MRSIS-TSP-cov.png> <./figures//MRSM-cov.png>]
+ [28 <./figures//GEB.png> <./figures//exp.png> <./figures//map_call.png> <./fig
+ures//Call_uav.png>]
 File: NCUlogo.jpg Graphic file (type jpg)
 <use NCUlogo.jpg>
-Package pdftex.def Info: NCUlogo.jpg  used on input line 820.
+Package pdftex.def Info: NCUlogo.jpg  used on input line 171.
 (pdftex.def)             Requested size: 60.22484pt x 50.58887pt.
- [29 <./figures//MRSIS-TSP.png> <./figures//MRSM.png>]
-File: NCUlogo.jpg Graphic file (type jpg)
-<use NCUlogo.jpg>
-Package pdftex.def Info: NCUlogo.jpg  used on input line 820.
-(pdftex.def)             Requested size: 60.22484pt x 50.58887pt.
- [30]
-File: NCUlogo.jpg Graphic file (type jpg)
-<use NCUlogo.jpg>
-Package pdftex.def Info: NCUlogo.jpg  used on input line 849.
-(pdftex.def)             Requested size: 60.22484pt x 50.58887pt.
- [31]
+ [29 <./figures//uav.png>]
 
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 853.
+LaTeX Warning: `h' float specifier changed to `ht'.
 
 
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 853.
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<./figures//MRSIS-TSP-cov.png, id=947, 578.16pt x 578.16pt>
+File: ./figures//MRSIS-TSP-cov.png Graphic file (type png)
+<use ./figures//MRSIS-TSP-cov.png>
+Package pdftex.def Info: ./figures//MRSIS-TSP-cov.png  used on input line 254.
+(pdftex.def)             Requested size: 192.0548pt x 192.05493pt.
+<./figures//MRSM-cov.png, id=950, 578.16pt x 578.16pt>
+File: ./figures//MRSM-cov.png Graphic file (type png)
+<use ./figures//MRSM-cov.png>
+Package pdftex.def Info: ./figures//MRSM-cov.png  used on input line 261.
+(pdftex.def)             Requested size: 192.0548pt x 192.05493pt.
+<./figures//MRSIS-TSP.png, id=951, 505.89pt x 433.62pt>
+File: ./figures//MRSIS-TSP.png Graphic file (type png)
+<use ./figures//MRSIS-TSP.png>
+Package pdftex.def Info: ./figures//MRSIS-TSP.png  used on input line 272.
+(pdftex.def)             Requested size: 192.0548pt x 164.61852pt.
+<./figures//MRSM.png, id=954, 505.89pt x 433.62pt>
+File: ./figures//MRSM.png Graphic file (type png)
+<use ./figures//MRSM.png>
+Package pdftex.def Info: ./figures//MRSM.png  used on input line 279.
+(pdftex.def)             Requested size: 192.0548pt x 164.61852pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
 
 
 LaTeX Warning: No positions in optional float specifier.
-               Default added (so using `tbp') on input line 861.
+               Default added (so using `tbp') on input line 375.
+
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `tbp') on input line 414.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 447.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 447.
+
+File: NCUlogo.jpg Graphic file (type jpg)
+<use NCUlogo.jpg>
+Package pdftex.def Info: NCUlogo.jpg  used on input line 460.
+(pdftex.def)             Requested size: 60.22484pt x 50.58887pt.
+[30]
+File: NCUlogo.jpg Graphic file (type jpg)
+<use NCUlogo.jpg>
+Package pdftex.def Info: NCUlogo.jpg  used on input line 460.
+(pdftex.def)             Requested size: 60.22484pt x 50.58887pt.
+ [31 <./figures//MRSIS-TSP-cov.png> <./figures//MRSM-cov.png> <./figures//MRSIS
+-TSP.png> <./figures//MRSM.png>]
+File: NCUlogo.jpg Graphic file (type jpg)
+<use NCUlogo.jpg>
+Package pdftex.def Info: NCUlogo.jpg  used on input line 469.
+(pdftex.def)             Requested size: 60.22484pt x 50.58887pt.
+ [32]
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 486.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 486.
+
+File: NCUlogo.jpg Graphic file (type jpg)
+<use NCUlogo.jpg>
+Package pdftex.def Info: NCUlogo.jpg  used on input line 488.
+(pdftex.def)             Requested size: 60.22484pt x 50.58887pt.
+[33]
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `tbp') on input line 490.
 
 )
 File: NCUlogo.jpg Graphic file (type jpg)
 <use NCUlogo.jpg>
-Package pdftex.def Info: NCUlogo.jpg  used on input line 113.
+Package pdftex.def Info: NCUlogo.jpg  used on input line 114.
 (pdftex.def)             Requested size: 60.22484pt x 50.58887pt.
- [32]
+ [34]
 File: NCUlogo.jpg Graphic file (type jpg)
 <use NCUlogo.jpg>
-Package pdftex.def Info: NCUlogo.jpg  used on input line 113.
+Package pdftex.def Info: NCUlogo.jpg  used on input line 114.
 (pdftex.def)             Requested size: 60.22484pt x 50.58887pt.
- [33]
+ [35]
+File: NCUlogo.jpg Graphic file (type jpg)
+<use NCUlogo.jpg>
+Package pdftex.def Info: NCUlogo.jpg  used on input line 114.
+(pdftex.def)             Requested size: 60.22484pt x 50.58887pt.
+ [36]
+File: NCUlogo.jpg Graphic file (type jpg)
+<use NCUlogo.jpg>
+Package pdftex.def Info: NCUlogo.jpg  used on input line 114.
+(pdftex.def)             Requested size: 60.22484pt x 50.58887pt.
+ [37]
 \openout2 = `chapter7.aux'.
 
  (chapter7.tex
@@ -1856,9 +2012,9 @@ Chapter 7.
 )
 File: NCUlogo.jpg Graphic file (type jpg)
 <use NCUlogo.jpg>
-Package pdftex.def Info: NCUlogo.jpg  used on input line 114.
+Package pdftex.def Info: NCUlogo.jpg  used on input line 115.
 (pdftex.def)             Requested size: 60.22484pt x 50.58887pt.
- [34
+ [38
 
 
 
@@ -1871,7 +2027,7 @@ File: NCUlogo.jpg Graphic file (type jpg)
 <use NCUlogo.jpg>
 Package pdftex.def Info: NCUlogo.jpg  used on input line 52.
 (pdftex.def)             Requested size: 60.22484pt x 50.58887pt.
- [35
+ [39
 
 
 
@@ -1880,10 +2036,10 @@ Package pdftex.def Info: NCUlogo.jpg  used on input line 52.
 ]
 File: NCUlogo.jpg Graphic file (type jpg)
 <use NCUlogo.jpg>
-Package pdftex.def Info: NCUlogo.jpg  used on input line 109.
+Package pdftex.def Info: NCUlogo.jpg  used on input line 102.
 (pdftex.def)             Requested size: 60.22484pt x 50.58887pt.
- [36]
-Underfull \hbox (badness 1147) in paragraph at lines 155--160
+ [40]
+Underfull \hbox (badness 1147) in paragraph at lines 142--147
 \T1/cmr/m/n/14.4 strained rout-ing of het-ero-ge-neous teams with risky traver-
 sal.
  []
@@ -1892,30 +2048,31 @@ File: NCUlogo.jpg Graphic file (type jpg)
 <use NCUlogo.jpg>
 Package pdftex.def Info: NCUlogo.jpg  used on input line 160.
 (pdftex.def)             Requested size: 60.22484pt x 50.58887pt.
-[37]
+[41]
 File: NCUlogo.jpg Graphic file (type jpg)
 <use NCUlogo.jpg>
-Package pdftex.def Info: NCUlogo.jpg  used on input line 210.
+Package pdftex.def Info: NCUlogo.jpg  used on input line 212.
 (pdftex.def)             Requested size: 60.22484pt x 50.58887pt.
- [38]))
+ [42]))
 File: NCUlogo.jpg Graphic file (type jpg)
 <use NCUlogo.jpg>
-Package pdftex.def Info: NCUlogo.jpg  used on input line 121.
+Package pdftex.def Info: NCUlogo.jpg  used on input line 122.
 (pdftex.def)             Requested size: 60.22484pt x 50.58887pt.
- [39] (masterthesisCJK.aux (abstractcn.aux) (abstracten.aux)
-(lists.aux) (symbol.aux) (chapter1.aux) (chapter2.aux) (chapter3.aux)
-(chapter4.aux) (chapter5.aux) (chapter6.aux) (chapter7.aux) (bibli.aux))
+ [43] (masterthesisCJK.aux (abstractcn.aux) (abstracten.aux)
+(acknowledge.aux) (lists.aux) (symbol.aux) (chapter1.aux) (chapter2.aux)
+(chapter3.aux) (chapter4.aux) (chapter5.aux) (chapter6.aux) (chapter7.aux)
+(bibli.aux))
 Package rerunfilecheck Info: File `masterthesisCJK.out' has not changed.
-(rerunfilecheck)             Checksum: 46053716CC1C3B33D38B0342E370432A;3678.
+(rerunfilecheck)             Checksum: FA12FBE98FA517D37C525EB40C0297D6;3665.
  ) 
 Here is how much of TeX's memory you used:
- 30814 strings out of 478354
- 555687 string characters out of 2853539
- 982952 words of memory out of 3000000
- 48174 multiletter control sequences out of 15000+600000
- 522800 words of font info for 198 fonts, out of 8000000 for 9000
+ 31068 strings out of 478354
+ 560248 string characters out of 2853539
+ 992812 words of memory out of 3000000
+ 48385 multiletter control sequences out of 15000+600000
+ 526544 words of font info for 211 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 103i,13n,131p,992b,1873s stack positions out of 10000i,1000n,20000p,200000b,80000s
+ 103i,18n,131p,992b,1890s stack positions out of 10000i,1000n,20000p,200000b,80000s
  <C:\Users\RSL\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx10
 00.pk> <C:\Users\RSL\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ec
 ti1440.pk> <C:\Users\RSL\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi60
@@ -1943,49 +2100,53 @@ fonts/type1/arphic/bkaiu/bkaiu57.pfb><C:/MiKTex/fonts/type1/arphic/bkaiu/bkaiu5
 phic/bkaiu/bkaiu5b.pfb><C:/MiKTex/fonts/type1/arphic/bkaiu/bkaiu5c.pfb><C:/MiKT
 ex/fonts/type1/arphic/bkaiu/bkaiu5e.pfb><C:/MiKTex/fonts/type1/arphic/bkaiu/bka
 iu5f.pfb><C:/MiKTex/fonts/type1/arphic/bkaiu/bkaiu60.pfb><C:/MiKTex/fonts/type1
-/arphic/bkaiu/bkaiu62.pfb><C:/MiKTex/fonts/type1/arphic/bkaiu/bkaiu63.pfb><C:/M
-iKTex/fonts/type1/arphic/bkaiu/bkaiu64.pfb><C:/MiKTex/fonts/type1/arphic/bkaiu/
-bkaiu65.pfb><C:/MiKTex/fonts/type1/arphic/bkaiu/bkaiu66.pfb><C:/MiKTex/fonts/ty
-pe1/arphic/bkaiu/bkaiu67.pfb><C:/MiKTex/fonts/type1/arphic/bkaiu/bkaiu69.pfb><C
-:/MiKTex/fonts/type1/arphic/bkaiu/bkaiu6a.pfb><C:/MiKTex/fonts/type1/arphic/bka
-iu/bkaiu6b.pfb><C:/MiKTex/fonts/type1/arphic/bkaiu/bkaiu6c.pfb><C:/MiKTex/fonts
-/type1/arphic/bkaiu/bkaiu6d.pfb><C:/MiKTex/fonts/type1/arphic/bkaiu/bkaiu6f.pfb
-><C:/MiKTex/fonts/type1/arphic/bkaiu/bkaiu70.pfb><C:/MiKTex/fonts/type1/arphic/
-bkaiu/bkaiu72.pfb><C:/MiKTex/fonts/type1/arphic/bkaiu/bkaiu73.pfb><C:/MiKTex/fo
-nts/type1/arphic/bkaiu/bkaiu74.pfb><C:/MiKTex/fonts/type1/arphic/bkaiu/bkaiu75.
-pfb><C:/MiKTex/fonts/type1/arphic/bkaiu/bkaiu76.pfb><C:/MiKTex/fonts/type1/arph
-ic/bkaiu/bkaiu78.pfb><C:/MiKTex/fonts/type1/arphic/bkaiu/bkaiu79.pfb><C:/MiKTex
-/fonts/type1/arphic/bkaiu/bkaiu7a.pfb><C:/MiKTex/fonts/type1/arphic/bkaiu/bkaiu
-7b.pfb><C:/MiKTex/fonts/type1/arphic/bkaiu/bkaiu7d.pfb><C:/MiKTex/fonts/type1/a
-rphic/bkaiu/bkaiu7f.pfb><C:/MiKTex/fonts/type1/arphic/bkaiu/bkaiu80.pfb><C:/MiK
-Tex/fonts/type1/arphic/bkaiu/bkaiu83.pfb><C:/MiKTex/fonts/type1/arphic/bkaiu/bk
-aiu84.pfb><C:/MiKTex/fonts/type1/arphic/bkaiu/bkaiu89.pfb><C:/MiKTex/fonts/type
-1/arphic/bkaiu/bkaiu8a.pfb><C:/MiKTex/fonts/type1/arphic/bkaiu/bkaiu8d.pfb><C:/
-MiKTex/fonts/type1/arphic/bkaiu/bkaiu8f.pfb><C:/MiKTex/fonts/type1/arphic/bkaiu
-/bkaiu90.pfb><C:/MiKTex/fonts/type1/arphic/bkaiu/bkaiu91.pfb><C:/MiKTex/fonts/t
-ype1/arphic/bkaiu/bkaiu93.pfb><C:/MiKTex/fonts/type1/arphic/bkaiu/bkaiu95.pfb><
-C:/MiKTex/fonts/type1/arphic/bkaiu/bkaiu96.pfb><C:/MiKTex/fonts/type1/arphic/bk
-aiu/bkaiu98.pfb><C:/MiKTex/fonts/type1/arphic/bkaiu/bkaiu9a.pfb><C:/MiKTex/font
-s/type1/arphic/bkaiu/bkaiuff.pfb><C:/MiKTex/fonts/type1/public/amsfonts/cm/cmex
-10.pfb><C:/MiKTex/fonts/type1/public/amsfonts/cmextra/cmex8.pfb><C:/MiKTex/font
-s/type1/public/amsfonts/cmextra/cmex9.pfb><C:/MiKTex/fonts/type1/public/amsfont
-s/cm/cmmi10.pfb><C:/MiKTex/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/MiKTex
-/fonts/type1/public/amsfonts/cm/cmmi6.pfb><C:/MiKTex/fonts/type1/public/amsfont
-s/cm/cmmi7.pfb><C:/MiKTex/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/MiKTex/f
-onts/type1/public/amsfonts/cm/cmmi9.pfb><C:/MiKTex/fonts/type1/public/amsfonts/
-cm/cmr10.pfb><C:/MiKTex/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/MiKTex/fon
-ts/type1/public/amsfonts/cm/cmr17.pfb><C:/MiKTex/fonts/type1/public/amsfonts/cm
-/cmr6.pfb><C:/MiKTex/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/MiKTex/fonts/t
-ype1/public/amsfonts/cm/cmr8.pfb><C:/MiKTex/fonts/type1/public/amsfonts/cm/cmr9
-.pfb><C:/MiKTex/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/MiKTex/fonts/type
-1/public/amsfonts/cm/cmsy6.pfb><C:/MiKTex/fonts/type1/public/amsfonts/cm/cmsy7.
-pfb><C:/MiKTex/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/MiKTex/fonts/type1/
-public/amsfonts/cm/cmsy9.pfb><C:/MiKTex/fonts/type1/public/amsfonts/symbols/msa
-m10.pfb><C:/MiKTex/fonts/type1/public/amsfonts/symbols/msbm10.pfb><C:/MiKTex/fo
-nts/type1/public/amsfonts/symbols/msbm7.pfb>
-Output written on masterthesisCJK.pdf (48 pages, 6182670 bytes).
+/arphic/bkaiu/bkaiu61.pfb><C:/MiKTex/fonts/type1/arphic/bkaiu/bkaiu62.pfb><C:/M
+iKTex/fonts/type1/arphic/bkaiu/bkaiu63.pfb><C:/MiKTex/fonts/type1/arphic/bkaiu/
+bkaiu64.pfb><C:/MiKTex/fonts/type1/arphic/bkaiu/bkaiu65.pfb><C:/MiKTex/fonts/ty
+pe1/arphic/bkaiu/bkaiu66.pfb><C:/MiKTex/fonts/type1/arphic/bkaiu/bkaiu67.pfb><C
+:/MiKTex/fonts/type1/arphic/bkaiu/bkaiu69.pfb><C:/MiKTex/fonts/type1/arphic/bka
+iu/bkaiu6a.pfb><C:/MiKTex/fonts/type1/arphic/bkaiu/bkaiu6b.pfb><C:/MiKTex/fonts
+/type1/arphic/bkaiu/bkaiu6c.pfb><C:/MiKTex/fonts/type1/arphic/bkaiu/bkaiu6d.pfb
+><C:/MiKTex/fonts/type1/arphic/bkaiu/bkaiu6f.pfb><C:/MiKTex/fonts/type1/arphic/
+bkaiu/bkaiu70.pfb><C:/MiKTex/fonts/type1/arphic/bkaiu/bkaiu72.pfb><C:/MiKTex/fo
+nts/type1/arphic/bkaiu/bkaiu73.pfb><C:/MiKTex/fonts/type1/arphic/bkaiu/bkaiu74.
+pfb><C:/MiKTex/fonts/type1/arphic/bkaiu/bkaiu75.pfb><C:/MiKTex/fonts/type1/arph
+ic/bkaiu/bkaiu76.pfb><C:/MiKTex/fonts/type1/arphic/bkaiu/bkaiu78.pfb><C:/MiKTex
+/fonts/type1/arphic/bkaiu/bkaiu79.pfb><C:/MiKTex/fonts/type1/arphic/bkaiu/bkaiu
+7a.pfb><C:/MiKTex/fonts/type1/arphic/bkaiu/bkaiu7b.pfb><C:/MiKTex/fonts/type1/a
+rphic/bkaiu/bkaiu7d.pfb><C:/MiKTex/fonts/type1/arphic/bkaiu/bkaiu7f.pfb><C:/MiK
+Tex/fonts/type1/arphic/bkaiu/bkaiu80.pfb><C:/MiKTex/fonts/type1/arphic/bkaiu/bk
+aiu82.pfb><C:/MiKTex/fonts/type1/arphic/bkaiu/bkaiu83.pfb><C:/MiKTex/fonts/type
+1/arphic/bkaiu/bkaiu84.pfb><C:/MiKTex/fonts/type1/arphic/bkaiu/bkaiu89.pfb><C:/
+MiKTex/fonts/type1/arphic/bkaiu/bkaiu8a.pfb><C:/MiKTex/fonts/type1/arphic/bkaiu
+/bkaiu8b.pfb><C:/MiKTex/fonts/type1/arphic/bkaiu/bkaiu8d.pfb><C:/MiKTex/fonts/t
+ype1/arphic/bkaiu/bkaiu8e.pfb><C:/MiKTex/fonts/type1/arphic/bkaiu/bkaiu8f.pfb><
+C:/MiKTex/fonts/type1/arphic/bkaiu/bkaiu90.pfb><C:/MiKTex/fonts/type1/arphic/bk
+aiu/bkaiu91.pfb><C:/MiKTex/fonts/type1/arphic/bkaiu/bkaiu93.pfb><C:/MiKTex/font
+s/type1/arphic/bkaiu/bkaiu95.pfb><C:/MiKTex/fonts/type1/arphic/bkaiu/bkaiu96.pf
+b><C:/MiKTex/fonts/type1/arphic/bkaiu/bkaiu98.pfb><C:/MiKTex/fonts/type1/arphic
+/bkaiu/bkaiu9a.pfb><C:/MiKTex/fonts/type1/arphic/bkaiu/bkaiu9f.pfb><C:/MiKTex/f
+onts/type1/arphic/bkaiu/bkaiuff.pfb><C:/MiKTex/fonts/type1/public/amsfonts/cm/c
+mbx10.pfb><C:/MiKTex/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/MiKTex/fonts
+/type1/public/amsfonts/cmextra/cmex8.pfb><C:/MiKTex/fonts/type1/public/amsfonts
+/cmextra/cmex9.pfb><C:/MiKTex/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/MiK
+Tex/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/MiKTex/fonts/type1/public/ams
+fonts/cm/cmmi6.pfb><C:/MiKTex/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/MiKT
+ex/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/MiKTex/fonts/type1/public/amsfo
+nts/cm/cmmi9.pfb><C:/MiKTex/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/MiKTex
+/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/MiKTex/fonts/type1/public/amsfont
+s/cm/cmr17.pfb><C:/MiKTex/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/MiKTex/fo
+nts/type1/public/amsfonts/cm/cmr7.pfb><C:/MiKTex/fonts/type1/public/amsfonts/cm
+/cmr8.pfb><C:/MiKTex/fonts/type1/public/amsfonts/cm/cmr9.pfb><C:/MiKTex/fonts/t
+ype1/public/amsfonts/cm/cmsy10.pfb><C:/MiKTex/fonts/type1/public/amsfonts/cm/cm
+sy6.pfb><C:/MiKTex/fonts/type1/public/amsfonts/cm/cmsy7.pfb><C:/MiKTex/fonts/ty
+pe1/public/amsfonts/cm/cmsy8.pfb><C:/MiKTex/fonts/type1/public/amsfonts/cm/cmsy
+9.pfb><C:/MiKTex/fonts/type1/public/amsfonts/symbols/msam10.pfb><C:/MiKTex/font
+s/type1/public/amsfonts/symbols/msbm10.pfb><C:/MiKTex/fonts/type1/public/amsfon
+ts/symbols/msbm7.pfb>
+Output written on masterthesisCJK.pdf (55 pages, 9498765 bytes).
 PDF statistics:
- 1879 PDF objects out of 2073 (max. 8388607)
- 171 named destinations out of 1000 (max. 500000)
- 541 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1977 PDF objects out of 2073 (max. 8388607)
+ 181 named destinations out of 1000 (max. 500000)
+ 611 words of extra memory for PDF output out of 10000 (max. 10000000)
 
