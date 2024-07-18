@@ -32,67 +32,70 @@ The style file: unsrt.bst
 Reallocating 'name_of_file' (item size: 1) to 7 items.
 Database file #1: my_bib.bib
 Warning--entry type for "glenn_jocher_2022_7347926" isn't style-file defined
---line 433 of file my_bib.bib
-Repeated entry---line 1501 of file my_bib.bib
+--line 463 of file my_bib.bib
+Repeated entry---line 583 of file my_bib.bib
+ : @article{zhu2020approach
+ :                         ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1555 of file my_bib.bib
  : @article{nemhauser1978analysis
  :                               ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 1521 of file my_bib.bib
+Repeated entry---line 1575 of file my_bib.bib
  : @article{zhang2016submodular
  :                             ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 1597 of file my_bib.bib
+Repeated entry---line 1651 of file my_bib.bib
  : @article{golovin2011adaptive
  :                             ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 2453 of file my_bib.bib
+Repeated entry---line 2511 of file my_bib.bib
  : @article{khuller1999budgeted
  :                             ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 2529 of file my_bib.bib
+Repeated entry---line 2587 of file my_bib.bib
  : @software{glenn_jocher_2022_7347926
  :                                    ,
 I'm skipping whatever remains of this entry
-Warning--empty journal in korte1978analysis
-You've used 39 entries,
+You've used 40 entries,
             1791 wiz_defined-function locations,
-            675 strings with 11549 characters,
-and the built_in function-call counts, 11039 in all, are:
-= -- 1025
-> -- 518
-< -- 14
-+ -- 186
-- -- 147
-* -- 769
-:= -- 1679
-add.period$ -- 116
-call.type$ -- 39
-change.case$ -- 38
+            680 strings with 11667 characters,
+and the built_in function-call counts, 11335 in all, are:
+= -- 1060
+> -- 526
+< -- 13
++ -- 189
+- -- 149
+* -- 800
+:= -- 1723
+add.period$ -- 120
+call.type$ -- 40
+change.case$ -- 39
 chr.to.int$ -- 0
 cite$ -- 40
-duplicate$ -- 477
-empty$ -- 961
-format.name$ -- 147
-if$ -- 2487
+duplicate$ -- 484
+empty$ -- 996
+format.name$ -- 149
+if$ -- 2547
 int.to.chr$ -- 0
-int.to.str$ -- 39
-missing$ -- 39
-newline$ -- 197
-num.names$ -- 39
+int.to.str$ -- 40
+missing$ -- 40
+newline$ -- 202
+num.names$ -- 40
 pop$ -- 89
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 0
-skip$ -- 307
+skip$ -- 304
 stack$ -- 0
-substring$ -- 924
-swap$ -- 172
-text.length$ -- 14
+substring$ -- 969
+swap$ -- 170
+text.length$ -- 13
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 0
-warning$ -- 1
-while$ -- 111
-width$ -- 41
-write$ -- 422
-(There were 5 error messages)
+warning$ -- 0
+while$ -- 115
+width$ -- 42
+write$ -- 435
+(There were 6 error messages)

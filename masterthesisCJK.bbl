@@ -11,8 +11,8 @@ Yan-Shuo Li and Kuo-Shih Tseng.
 Steve Paull, Payam Ghassemi, and Souma Chowdhury.
 \newblock Learning scalable policies over graphs for multi-robot task
   allocation using capsule attention networks.
-\newblock {\em International Conference on Robotics and Automation (ICRA)},
-  pages 8815--8822, 2022.
+\newblock {\em IEEE International Conference on Robotics and Automation
+  (ICRA)}, pages 8815--8822, 2022.
 
 \bibitem{sheng2022pd}
 Wenda Sheng, Hongliang Guo, Wei-Yun Yau, and Yingjie Zhou.
@@ -30,8 +30,8 @@ Brent Schlotfeldt, Dinesh Thakur, Nikolay Atanasov, Vijay Kumar, and George~J
 \bibitem{jennings1997cooperative}
 James~S Jennings, Greg Whelan, and William~F Evans.
 \newblock Cooperative search and rescue with a team of mobile robots.
-\newblock {\em International Conference on Advanced Robotics (ICAR)}, pages
-  193--200, 1997.
+\newblock {\em IEEE International Conference on Advanced Robotics (ICAR)},
+  pages 193--200, 1997.
 
 \bibitem{correll2009multirobot}
 Nikolaus Correll and Alcherio Martinoli.
@@ -62,6 +62,13 @@ Amarjeet Singh, Andreas Krause, Carlos Guestrin, William Kaiser, and Maxim
 \newblock {\em Proceedings of the 20th international joint conference on
   Artifical intelligence (IJCAI)}, pages 2204--2211, 2007.
 
+\bibitem{li2024casmo}
+Yan-Shuo Li and Kuo-Shih Tseng.
+\newblock Computation-aware multi-object search in 3d space using submodular
+  tree.
+\newblock {\em IEEE International Conference on Robotics and Automation
+  (ICRA)}, 2024.
+
 \bibitem{zhou2021fuel}
 Boyu Zhou, Yichen Zhang, Xinyi Chen, and Shaojie Shen.
 \newblock Fuel: Fast uav exploration using incremental frontier structure and
@@ -72,7 +79,7 @@ Boyu Zhou, Yichen Zhang, Xinyi Chen, and Shaojie Shen.
 Boyu Zhou, Hao Xu, and Shaojie Shen.
 \newblock Racer: Rapid collaborative exploration with a decentralized multi-uav
   system.
-\newblock {\em IEEE Transactions on Robotics}, 2023.
+\newblock {\em IEEE Transactions on Robotics}, 39(3):1816--1835, 2023.
 
 \bibitem{mittal2019vision}
 Mayank Mittal, Rohit Mohan, Wolfram Burgard, and Abhinav Valada.
@@ -95,17 +102,17 @@ Sharaf~C. Mohamed, Sanjif Rajaratnam, Seung~Tae Hong, and Goldie Nejat.
   17(1):433--449, 2020.
 
 \bibitem{Mohamed2022multirobot}
-Sharaf~C. Mohamed, Angus Fung, and Goldie Nejat.
+Sharaf~C Mohamed, Angus Fung, and Goldie Nejat.
 \newblock A multirobot person search system for finding multiple dynamic users
   in human-centered environments.
-\newblock {\em IEEE Transactions on Cybernetics}, pages 1--13, 2022.
+\newblock {\em IEEE Transactions on Cybernetics}, 53(1):628--640, 2022.
 
 \bibitem{zhu2020approach}
 Xiaolong Zhu, Fernando Vanegas, and Felipe Gonzalez.
 \newblock An approach for multi-uav system navigation and target finding in
   cluttered environments.
-\newblock {\em International Conference on Unmanned Aircraft Systems (ICUAS)},
-  pages 1113--1120, 2020.
+\newblock In {\em IEEE International Conference on Unmanned Aircraft Systems
+  (ICUAS)}, pages 1113--1120. IEEE, 2020.
 
 \bibitem{Zheng2021mos3d}
 Kaiyu Zheng, Yoonchang Sung, George Konidaris, and Stefanie Tellex.
@@ -203,7 +210,7 @@ Haotian Zhang, Rao Li, Zewei Wu, and Guodong Sun.
 \bibitem{korte1978analysis}
 Bernhard Korte and Dirk Hausmann.
 \newblock An analysis of the greedy heuristic for independence systems.
-\newblock 2:65--74, 1978.
+\newblock {\em Annals of Discrete Mathematics}, 2:65--74, 1978.
 
 \bibitem{mestre2015intersection}
 Juli{\'a}n Mestre.
@@ -241,7 +248,7 @@ Wouter Kool, Herke van Hoof, and Max Welling.
 Bing-Xian Lu and Kuo-Shih Tseng.
 \newblock 3d map exploration via learning submodular functions in the fourier
   domain.
-\newblock {\em International Conference on Unmanned Aircraft Systems (ICUAS)},
-  pages 1199--1205, 2020.
+\newblock {\em IEEE international conference on unmanned aircraft systems
+  (ICUAS)}, pages 1199--1205, 2020.
 
 \end{thebibliography}

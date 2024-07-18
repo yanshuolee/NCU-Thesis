@@ -65,30 +65,5 @@ However, there is a gap between $\widetilde{OPT}$ and the optimal solution ($OPT
 Besides, Zhang et al. \cite{zhang2022nonmonontone} investigate the non-monotone submodular maximization with the $k$-independence system routing constraint, where $k$ is loosely upper-bounded by the size of the ground set.
 An iterated two-stage algorithm is presented to obatin a $[\frac{1}{4k}, 1+\theta]$-bicriterion approximation solution, where $\theta$ is an error parameter within $(0,1)$.
 
-\begin{figure}
-    \centering
-    \begin{subfigure}[b]{0.35\textwidth}
-        \includegraphics[width=1\textwidth]{cov-1.png}
-        \caption{$f(S_A)$}
-    \end{subfigure}
-    %\hfill
-    %\quad
-    \begin{subfigure}[b]{0.35\textwidth}
-    %\centering
-        \includegraphics[width=1\textwidth]{cov-2.png}
-        \caption{$f(S_B)$}
-    \end{subfigure}
-    \hfill
-
-    \begin{subfigure}[b]{0.8\textwidth}
-    \centering
-        \includegraphics[width=1\textwidth]{cov-12.png}
-        \caption{$f(S_A \cup s)-f(S_A) \geq f(S_B \cup s)-f(S_B)$ } \label{fig:AB-cov}
-    \end{subfigure}
-
-    \caption{Illustration of submodularity under coverage scenario. The geographical locations of sensors are denoted as decimal numbers, while the blue and gray areas correspond to the covered and uncovered regions, respectively. (a) $f(S_A)$ is the covered area of $S_A$, where $S_A=\{1\}$. (b) $f(S_B)$ is the covered area of $S_B$, where $S_B=\{1,2\}$. (c) The marginal gain of the coverage function $f$ is marked as red dashed lines when $s=\{3\}$ is added to the current set $S_A=\{1\}$ and $S_B=\{1,2\}$.
-    }
-    \label{submodularity}
-\end{figure}
 
 

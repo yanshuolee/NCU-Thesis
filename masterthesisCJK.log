@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.3) (preloaded format=pdflatex 2022.6.21)  17 JUL 2024 16:16
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.3) (preloaded format=pdflatex 2022.6.21)  18 JUL 2024 08:44
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1220,46 +1220,117 @@ File: uesvect.fd
 
 
 ]
-<1.pdf, id=165, 614.295pt x 794.97pt>
-File: 1.pdf Graphic file (type pdf)
-<use 1.pdf>
-Package pdftex.def Info: 1.pdf  used on input line 96.
+<4.pdf, id=169, 614.295pt x 794.97pt>
+File: 4.pdf Graphic file (type pdf)
+<use 4.pdf>
+Package pdftex.def Info: 4.pdf  used on input line 94.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
-File: 1.pdf Graphic file (type pdf)
-<use 1.pdf>
-Package pdftex.def Info: 1.pdf  used on input line 96.
+File: 4.pdf Graphic file (type pdf)
+<use 4.pdf>
+Package pdftex.def Info: 4.pdf  used on input line 94.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
-<1.pdf, id=168, page=1, 614.295pt x 794.97pt>
-File: 1.pdf Graphic file (type pdf)
-<use 1.pdf, page 1>
-Package pdftex.def Info: 1.pdf , page1 used on input line 96.
+<4.pdf, id=172, page=1, 614.295pt x 794.97pt>
+File: 4.pdf Graphic file (type pdf)
+<use 4.pdf, page 1>
+Package pdftex.def Info: 4.pdf , page1 used on input line 94.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
-File: 1.pdf Graphic file (type pdf)
-<use 1.pdf, page 1>
-Package pdftex.def Info: 1.pdf , page1 used on input line 96.
+File: 4.pdf Graphic file (type pdf)
+<use 4.pdf, page 1>
+Package pdftex.def Info: 4.pdf , page1 used on input line 94.
 (pdftex.def)             Requested size: 552.86038pt x 715.4664pt.
-File: 1.pdf Graphic file (type pdf)
-<use 1.pdf, page 1>
-Package pdftex.def Info: 1.pdf , page1 used on input line 96.
+File: 4.pdf Graphic file (type pdf)
+<use 4.pdf, page 1>
+Package pdftex.def Info: 4.pdf , page1 used on input line 94.
 (pdftex.def)             Requested size: 552.86038pt x 715.4664pt.
-File: 1.pdf Graphic file (type pdf)
-<use 1.pdf, page 1>
-Package pdftex.def Info: 1.pdf , page1 used on input line 96.
+File: 4.pdf Graphic file (type pdf)
+<use 4.pdf, page 1>
+Package pdftex.def Info: 4.pdf , page1 used on input line 94.
 (pdftex.def)             Requested size: 552.86038pt x 715.4664pt.
-File: 1.pdf Graphic file (type pdf)
-<use 1.pdf, page 1>
-Package pdftex.def Info: 1.pdf , page1 used on input line 96.
+File: 4.pdf Graphic file (type pdf)
+<use 4.pdf, page 1>
+Package pdftex.def Info: 4.pdf , page1 used on input line 94.
 (pdftex.def)             Requested size: 552.86038pt x 715.4664pt.
-<NCUlogo.jpg, id=169, 60.225pt x 50.589pt>
+<NCUlogo.jpg, id=173, 60.225pt x 50.589pt>
 File: NCUlogo.jpg Graphic file (type jpg)
 <use NCUlogo.jpg>
-Package pdftex.def Info: NCUlogo.jpg  used on input line 96.
+Package pdftex.def Info: NCUlogo.jpg  used on input line 94.
 (pdftex.def)             Requested size: 60.22484pt x 50.58887pt.
  [3
 
 
- <./1.pdf> <./NCUlogo.jpg>]
-<2.pdf, id=178, 614.295pt x 794.97pt>
+ <./4.pdf> <./NCUlogo.jpg>]
+<3.pdf, id=182, 614.295pt x 794.97pt>
+File: 3.pdf Graphic file (type pdf)
+<use 3.pdf>
+Package pdftex.def Info: 3.pdf  used on input line 95.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+File: 3.pdf Graphic file (type pdf)
+<use 3.pdf>
+Package pdftex.def Info: 3.pdf  used on input line 95.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+<3.pdf, id=185, page=1, 614.295pt x 794.97pt>
+File: 3.pdf Graphic file (type pdf)
+<use 3.pdf, page 1>
+Package pdftex.def Info: 3.pdf , page1 used on input line 95.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+File: 3.pdf Graphic file (type pdf)
+<use 3.pdf, page 1>
+Package pdftex.def Info: 3.pdf , page1 used on input line 95.
+(pdftex.def)             Requested size: 552.86038pt x 715.4664pt.
+File: 3.pdf Graphic file (type pdf)
+<use 3.pdf, page 1>
+Package pdftex.def Info: 3.pdf , page1 used on input line 95.
+(pdftex.def)             Requested size: 552.86038pt x 715.4664pt.
+File: 3.pdf Graphic file (type pdf)
+<use 3.pdf, page 1>
+Package pdftex.def Info: 3.pdf , page1 used on input line 95.
+(pdftex.def)             Requested size: 552.86038pt x 715.4664pt.
+File: 3.pdf Graphic file (type pdf)
+<use 3.pdf, page 1>
+Package pdftex.def Info: 3.pdf , page1 used on input line 95.
+(pdftex.def)             Requested size: 552.86038pt x 715.4664pt.
+File: NCUlogo.jpg Graphic file (type jpg)
+<use NCUlogo.jpg>
+Package pdftex.def Info: NCUlogo.jpg  used on input line 95.
+(pdftex.def)             Requested size: 60.22484pt x 50.58887pt.
+ [4 <./3.pdf>]
+<1.pdf, id=194, 614.295pt x 794.97pt>
+File: 1.pdf Graphic file (type pdf)
+<use 1.pdf>
+Package pdftex.def Info: 1.pdf  used on input line 96.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+File: 1.pdf Graphic file (type pdf)
+<use 1.pdf>
+Package pdftex.def Info: 1.pdf  used on input line 96.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+<1.pdf, id=197, page=1, 614.295pt x 794.97pt>
+File: 1.pdf Graphic file (type pdf)
+<use 1.pdf, page 1>
+Package pdftex.def Info: 1.pdf , page1 used on input line 96.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+File: 1.pdf Graphic file (type pdf)
+<use 1.pdf, page 1>
+Package pdftex.def Info: 1.pdf , page1 used on input line 96.
+(pdftex.def)             Requested size: 552.86038pt x 715.4664pt.
+File: 1.pdf Graphic file (type pdf)
+<use 1.pdf, page 1>
+Package pdftex.def Info: 1.pdf , page1 used on input line 96.
+(pdftex.def)             Requested size: 552.86038pt x 715.4664pt.
+File: 1.pdf Graphic file (type pdf)
+<use 1.pdf, page 1>
+Package pdftex.def Info: 1.pdf , page1 used on input line 96.
+(pdftex.def)             Requested size: 552.86038pt x 715.4664pt.
+File: 1.pdf Graphic file (type pdf)
+<use 1.pdf, page 1>
+Package pdftex.def Info: 1.pdf , page1 used on input line 96.
+(pdftex.def)             Requested size: 552.86038pt x 715.4664pt.
+File: NCUlogo.jpg Graphic file (type jpg)
+<use NCUlogo.jpg>
+Package pdftex.def Info: NCUlogo.jpg  used on input line 96.
+(pdftex.def)             Requested size: 60.22484pt x 50.58887pt.
+
+[5 <./1.pdf>]
+<2.pdf, id=206, 614.295pt x 794.97pt>
 File: 2.pdf Graphic file (type pdf)
 <use 2.pdf>
 Package pdftex.def Info: 2.pdf  used on input line 97.
@@ -1268,7 +1339,7 @@ File: 2.pdf Graphic file (type pdf)
 <use 2.pdf>
 Package pdftex.def Info: 2.pdf  used on input line 97.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
-<2.pdf, id=181, page=1, 614.295pt x 794.97pt>
+<2.pdf, id=209, page=1, 614.295pt x 794.97pt>
 File: 2.pdf Graphic file (type pdf)
 <use 2.pdf, page 1>
 Package pdftex.def Info: 2.pdf , page1 used on input line 97.
@@ -1293,11 +1364,10 @@ File: NCUlogo.jpg Graphic file (type jpg)
 <use NCUlogo.jpg>
 Package pdftex.def Info: NCUlogo.jpg  used on input line 97.
 (pdftex.def)             Requested size: 60.22484pt x 50.58887pt.
- [4 <./2.pdf>]
+ [6 <./2.pdf>]
 \openout2 = `abstractcn.aux'.
 
-
-(abstractcn.tex
+ (abstractcn.tex
 LaTeX Font Info:    Trying to load font information for T1+cmss on input line 6
 .
  (C:\MiKTex\tex/latex/base\t1cmss.fd
@@ -1320,8 +1390,7 @@ File: NCUlogo.jpg Graphic file (type jpg)
 <use NCUlogo.jpg>
 Package pdftex.def Info: NCUlogo.jpg  used on input line 14.
 (pdftex.def)             Requested size: 60.22484pt x 50.58887pt.
-
-[2
+ [2
 
 
 
@@ -1346,7 +1415,8 @@ Package pdftex.def Info: NCUlogo.jpg  used on input line 10.
 ])
 \openout2 = `lists.aux'.
 
- (lists.tex (masterthesisCJK.toc
+ (lists.tex
+(masterthesisCJK.toc
 Overfull \hbox (3.15169pt too wide) detected at line 7
  []\T1/cmr/m/n/14.4 viii[]
  []
@@ -1372,7 +1442,7 @@ Overfull \hbox (3.1124pt too wide) in paragraph at lines 2--2
  []
 
 
-Overfull \hbox (5.6356pt too wide) in paragraph at lines 4--4
+Overfull \hbox (5.6356pt too wide) in paragraph at lines 5--5
  [][] [][]\T1/cmr/m/n/14.4 Illustration of sub-mod-u-lar-ity un-der cov-er-age 
 sce-nario. The 
  []
@@ -1428,7 +1498,7 @@ No file symbol.tex.
 
 (chapter1.tex
 Chapter 1.
-<./figures//overview-3.png, id=522, 1058.45438pt x 389.20406pt>
+<./figures//overview-3.png, id=553, 1058.45438pt x 389.20406pt>
 File: ./figures//overview-3.png Graphic file (type png)
 <use ./figures//overview-3.png>
 Package pdftex.def Info: ./figures//overview-3.png  used on input line 26.
@@ -1454,7 +1524,7 @@ Package pdftex.def Info: NCUlogo.jpg  used on input line 68.
  [2 <./figures//overview-3.png>]
 File: NCUlogo.jpg Graphic file (type jpg)
 <use NCUlogo.jpg>
-Package pdftex.def Info: NCUlogo.jpg  used on input line 90.
+Package pdftex.def Info: NCUlogo.jpg  used on input line 87.
 (pdftex.def)             Requested size: 60.22484pt x 50.58887pt.
  [3])
 File: NCUlogo.jpg Graphic file (type jpg)
@@ -1496,33 +1566,12 @@ File: NCUlogo.jpg Graphic file (type jpg)
 <use NCUlogo.jpg>
 Package pdftex.def Info: NCUlogo.jpg  used on input line 54.
 (pdftex.def)             Requested size: 60.22484pt x 50.58887pt.
- [7]
-<./figures//cov-1.png, id=638, 359.84438pt x 309.40594pt>
-File: ./figures//cov-1.png Graphic file (type png)
-<use ./figures//cov-1.png>
-Package pdftex.def Info: ./figures//cov-1.png  used on input line 71.
-(pdftex.def)             Requested size: 149.37956pt x 128.44356pt.
-<./figures//cov-2.png, id=639, 360.59718pt x 303.38344pt>
-File: ./figures//cov-2.png Graphic file (type png)
-<use ./figures//cov-2.png>
-Package pdftex.def Info: ./figures//cov-2.png  used on input line 78.
-(pdftex.def)             Requested size: 149.37956pt x 125.67494pt.
-<./figures//cov-12.png, id=640, 670.30424pt x 244.5135pt>
-File: ./figures//cov-12.png Graphic file (type png)
-<use ./figures//cov-12.png>
-Package pdftex.def Info: ./figures//cov-12.png  used on input line 85.
-(pdftex.def)             Requested size: 341.43436pt x 124.55098pt.
-)
+ [7])
 File: NCUlogo.jpg Graphic file (type jpg)
 <use NCUlogo.jpg>
 Package pdftex.def Info: NCUlogo.jpg  used on input line 110.
 (pdftex.def)             Requested size: 60.22484pt x 50.58887pt.
  [8]
-File: NCUlogo.jpg Graphic file (type jpg)
-<use NCUlogo.jpg>
-Package pdftex.def Info: NCUlogo.jpg  used on input line 110.
-(pdftex.def)             Requested size: 60.22484pt x 50.58887pt.
- [9 <./figures//cov-1.png> <./figures//cov-2.png> <./figures//cov-12.png>]
 \openout2 = `chapter3.aux'.
 
  (chapter3.tex
@@ -1542,37 +1591,57 @@ Underfull \hbox (badness 10000) in paragraph at lines 18--20
 
  []
 
-<./figures//def-mat-0.png, id=672, 285.4665pt x 242.70676pt>
+<./figures//cov-1.png, id=686, 359.84438pt x 309.40594pt>
+File: ./figures//cov-1.png Graphic file (type png)
+<use ./figures//cov-1.png>
+Package pdftex.def Info: ./figures//cov-1.png  used on input line 24.
+(pdftex.def)             Requested size: 149.37956pt x 128.44356pt.
+<./figures//cov-2.png, id=687, 360.59718pt x 303.38344pt>
+File: ./figures//cov-2.png Graphic file (type png)
+<use ./figures//cov-2.png>
+Package pdftex.def Info: ./figures//cov-2.png  used on input line 31.
+(pdftex.def)             Requested size: 149.37956pt x 125.67494pt.
+<./figures//cov-12.png, id=688, 670.30424pt x 244.5135pt>
+File: ./figures//cov-12.png Graphic file (type png)
+<use ./figures//cov-12.png>
+Package pdftex.def Info: ./figures//cov-12.png  used on input line 38.
+(pdftex.def)             Requested size: 341.43436pt x 124.55098pt.
+<./figures//def-mat-0.png, id=689, 285.4665pt x 242.70676pt>
 File: ./figures//def-mat-0.png Graphic file (type png)
 <use ./figures//def-mat-0.png>
-Package pdftex.def Info: ./figures//def-mat-0.png  used on input line 51.
+Package pdftex.def Info: ./figures//def-mat-0.png  used on input line 77.
 (pdftex.def)             Requested size: 128.0387pt x 108.8615pt.
-<./figures//def-mat-1.png, id=673, 286.671pt x 242.70676pt>
+<./figures//def-mat-1.png, id=690, 286.671pt x 242.70676pt>
 File: ./figures//def-mat-1.png Graphic file (type png)
 <use ./figures//def-mat-1.png>
-Package pdftex.def Info: ./figures//def-mat-1.png  used on input line 58.
+Package pdftex.def Info: ./figures//def-mat-1.png  used on input line 84.
 (pdftex.def)             Requested size: 128.0387pt x 108.40598pt.
-<./figures//def-mat-2.png, id=674, 285.4665pt x 240.29774pt>
+<./figures//def-mat-2.png, id=691, 285.4665pt x 240.29774pt>
 File: ./figures//def-mat-2.png Graphic file (type png)
 <use ./figures//def-mat-2.png>
-Package pdftex.def Info: ./figures//def-mat-2.png  used on input line 65.
+Package pdftex.def Info: ./figures//def-mat-2.png  used on input line 91.
 (pdftex.def)             Requested size: 128.0387pt x 107.78098pt.
 File: NCUlogo.jpg Graphic file (type jpg)
 <use NCUlogo.jpg>
-Package pdftex.def Info: NCUlogo.jpg  used on input line 75.
+Package pdftex.def Info: NCUlogo.jpg  used on input line 101.
 (pdftex.def)             Requested size: 60.22484pt x 50.58887pt.
-[10
+[9
 
 
 
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 81--82
+File: NCUlogo.jpg Graphic file (type jpg)
+<use NCUlogo.jpg>
+Package pdftex.def Info: NCUlogo.jpg  used on input line 101.
+(pdftex.def)             Requested size: 60.22484pt x 50.58887pt.
+ [10 <./figures//cov-1.png> <./figures//cov-2.png> <./figures//cov-12.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 107--108
 
  []
 
 
-Overfull \hbox (12.892pt too wide) in paragraph at lines 84--87
+Overfull \hbox (12.892pt too wide) in paragraph at lines 110--113
 \OMS/cmsy/m/n/14.4 f\OML/cmm/m/it/14.4 a; b; c; d; e; f; g; h\OMS/cmsy/m/n/14.4
  g$ \T1/cmr/m/it/14.4 and an in-de-pen-dent set $\OMS/cmsy/m/n/14.4 I \OT1/cmr/
 m/n/14.4 = \OMS/cmsy/m/n/14.4 ff\OML/cmm/m/it/14.4 a; b; c\OMS/cmsy/m/n/14.4 g\
@@ -1582,37 +1651,37 @@ y/m/n/14.4 g\OML/cmm/m/it/14.4 ; []
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 84--87
+Underfull \hbox (badness 10000) in paragraph at lines 110--113
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 93--95
+Underfull \hbox (badness 10000) in paragraph at lines 119--121
 
  []
 
 File: NCUlogo.jpg Graphic file (type jpg)
 <use NCUlogo.jpg>
-Package pdftex.def Info: NCUlogo.jpg  used on input line 95.
+Package pdftex.def Info: NCUlogo.jpg  used on input line 121.
 (pdftex.def)             Requested size: 60.22484pt x 50.58887pt.
 [11 <./figures//def-mat-0.png> <./figures//def-mat-1.png> <./figures//def-mat-2
 .png>]
-Underfull \hbox (badness 10000) in paragraph at lines 104--105
+Underfull \hbox (badness 10000) in paragraph at lines 130--131
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 108--111
+Underfull \hbox (badness 10000) in paragraph at lines 134--137
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 112--114
+Underfull \hbox (badness 10000) in paragraph at lines 138--140
 
  []
 
 
-Overfull \hbox (9.69421pt too wide) in paragraph at lines 116--118
+Overfull \hbox (9.69421pt too wide) in paragraph at lines 142--144
 []\T1/cmr/m/n/14.4 To il-lus-trate the con-cept, let $\OT1/cmr/m/n/14.4 (\OML/c
 mm/m/it/14.4 E; \OMS/cmsy/m/n/14.4 I[]\OT1/cmr/m/n/14.4 )$ \T1/cmr/m/n/14.4 and
  $\OT1/cmr/m/n/14.4 (\OML/cmm/m/it/14.4 E; \OMS/cmsy/m/n/14.4 I[]\OT1/cmr/m/n/1
@@ -1621,74 +1690,74 @@ ence
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 116--118
+Underfull \hbox (badness 10000) in paragraph at lines 142--144
 
  []
 
 File: NCUlogo.jpg Graphic file (type jpg)
 <use NCUlogo.jpg>
-Package pdftex.def Info: NCUlogo.jpg  used on input line 119.
+Package pdftex.def Info: NCUlogo.jpg  used on input line 145.
 (pdftex.def)             Requested size: 60.22484pt x 50.58887pt.
 [12]
-Underfull \hbox (badness 10000) in paragraph at lines 126--127
+Underfull \hbox (badness 10000) in paragraph at lines 152--153
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 134--136
+Underfull \hbox (badness 10000) in paragraph at lines 160--162
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 138--141
+Underfull \hbox (badness 10000) in paragraph at lines 164--167
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 142--145
+Underfull \hbox (badness 10000) in paragraph at lines 168--171
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 146--148
+Underfull \hbox (badness 10000) in paragraph at lines 172--174
 
  []
 
 File: NCUlogo.jpg Graphic file (type jpg)
 <use NCUlogo.jpg>
-Package pdftex.def Info: NCUlogo.jpg  used on input line 148.
+Package pdftex.def Info: NCUlogo.jpg  used on input line 174.
 (pdftex.def)             Requested size: 60.22484pt x 50.58887pt.
 [13]
-Underfull \hbox (badness 10000) in paragraph at lines 150--153
+Underfull \hbox (badness 10000) in paragraph at lines 176--179
 
  []
 
 
-Overfull \hbox (2.09413pt too wide) in paragraph at lines 155--157
+Overfull \hbox (2.09413pt too wide) in paragraph at lines 181--183
 [][]\T1/cmr/bx/n/14.4 Theorem 3.6. []\T1/cmr/m/it/14.4 (Sub-mod-u-lar-ity of ba
-l-anc-ing func-tion) [[]36[]] Given a graph
+l-anc-ing func-tion) [[]37[]] Given a graph
  []
 
 
-Overfull \hbox (1.1644pt too wide) in paragraph at lines 162--163
+Overfull \hbox (1.1644pt too wide) in paragraph at lines 188--189
 []\T1/cmr/m/it/14.4 The bal-anc-ing func-tion en-cour-ages the clus-ters to hav
 e sim-i-lar sizes.
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 162--163
+Underfull \hbox (badness 10000) in paragraph at lines 188--189
 
  []
 
-<./figures//-1.01.png, id=737, 288.47775pt x 245.11575pt>
+<./figures//-1.01.png, id=766, 288.47775pt x 245.11575pt>
 File: ./figures//-1.01.png Graphic file (type png)
 <use ./figures//-1.01.png>
-Package pdftex.def Info: ./figures//-1.01.png  used on input line 169.
+Package pdftex.def Info: ./figures//-1.01.png  used on input line 195.
 (pdftex.def)             Requested size: 170.71393pt x 145.05463pt.
-<./figures//-1.24.png, id=738, 286.06876pt x 245.11575pt>
+<./figures//-1.24.png, id=767, 286.06876pt x 245.11575pt>
 File: ./figures//-1.24.png Graphic file (type png)
 <use ./figures//-1.24.png>
-Package pdftex.def Info: ./figures//-1.24.png  used on input line 175.
+Package pdftex.def Info: ./figures//-1.24.png  used on input line 201.
 (pdftex.def)             Requested size: 170.71393pt x 146.27766pt.
 )
 File: NCUlogo.jpg Graphic file (type jpg)
@@ -1758,12 +1827,12 @@ File: NCUlogo.jpg Graphic file (type jpg)
 Package pdftex.def Info: NCUlogo.jpg  used on input line 145.
 (pdftex.def)             Requested size: 60.22484pt x 50.58887pt.
 [20]
-<./figures//mat-1.png, id=808, 288.47775pt x 245.11575pt>
+<./figures//mat-1.png, id=837, 288.47775pt x 245.11575pt>
 File: ./figures//mat-1.png Graphic file (type png)
 <use ./figures//mat-1.png>
 Package pdftex.def Info: ./figures//mat-1.png  used on input line 149.
 (pdftex.def)             Requested size: 170.71393pt x 145.05463pt.
-<./figures//mat-2.png, id=809, 285.4665pt x 242.1045pt>
+<./figures//mat-2.png, id=838, 285.4665pt x 242.1045pt>
 File: ./figures//mat-2.png Graphic file (type png)
 <use ./figures//mat-2.png>
 Package pdftex.def Info: ./figures//mat-2.png  used on input line 156.
@@ -1803,7 +1872,7 @@ Package pdftex.def Info: NCUlogo.jpg  used on input line 113.
 
  (chapter6.tex
 Chapter 6.
-<./figures//gazebo-env-1.png, id=845, 655.248pt x 401.0985pt>
+<./figures//gazebo-env-1.png, id=875, 655.248pt x 401.0985pt>
 File: ./figures//gazebo-env-1.png Graphic file (type png)
 <use ./figures//gazebo-env-1.png>
 Package pdftex.def Info: ./figures//gazebo-env-1.png  used on input line 14.
@@ -1824,23 +1893,11 @@ Package pdftex.def Info: NCUlogo.jpg  used on input line 35.
 
 
 ]
-Overfull \hbox (72.2197pt too wide) in paragraph at lines 36--38
-\OMS/cmsy/m/n/14.4 f\OT1/cmr/m/n/14.4 (\OML/cmm/m/it/14.4 x; y; z; ^^R\OT1/cmr/
-m/n/14.4 )\OMS/cmsy/m/n/14.4 j\OT1/cmr/m/n/14.4 (\OML/cmm/m/it/14.4 x; y; z; ^^
-R\OT1/cmr/m/n/14.4 ) \OMS/cmsy/m/n/14.4 2 Vg$\T1/cmr/m/n/14.4 , where $\OML/cmm
-/m/it/14.4 x; y; z \OMS/cmsy/m/n/14.4 2 \OT1/cmr/m/n/14.4 [1\OML/cmm/m/it/14.4 
-; e\OT1/cmr/m/n/14.4 ]$ \T1/cmr/m/n/14.4 and $\OML/cmm/m/it/14.4 ^^R \OMS/cmsy/
-m/n/14.4 2 f\OT1/cmr/m/n/14.4 0\OML/cmm/m/it/14.4 ; \OT1/cmr/m/n/14.4 60\OML/cm
-m/m/it/14.4 ; \OT1/cmr/m/n/14.4 120\OML/cmm/m/it/14.4 ; \OT1/cmr/m/n/14.4 180\O
-ML/cmm/m/it/14.4 ; \OT1/cmr/m/n/14.4 240\OML/cmm/m/it/14.4 ; \OT1/cmr/m/n/14.4 
-300\OMS/cmsy/m/n/14.4 g$\T1/cmr/m/n/14.4 . 
- []
-
 File: NCUlogo.jpg Graphic file (type jpg)
 <use NCUlogo.jpg>
 Package pdftex.def Info: NCUlogo.jpg  used on input line 54.
 (pdftex.def)             Requested size: 60.22484pt x 50.58887pt.
-[25 <./figures//gazebo-env-1.png>]
+ [25 <./figures//gazebo-env-1.png>]
 Overfull \hbox (0.94218pt too wide) in paragraph at lines 70--76
 \T1/cmr/m/n/14.4 mance is eval-u-ated on dif-fer-ent num-bers of sub-goals $\OM
 S/cmsy/m/n/14.4 V \OT1/cmr/m/n/14.4 = \OMS/cmsy/m/n/14.4 f\OT1/cmr/m/n/14.4 700
@@ -1853,27 +1910,27 @@ File: NCUlogo.jpg Graphic file (type jpg)
 Package pdftex.def Info: NCUlogo.jpg  used on input line 76.
 (pdftex.def)             Requested size: 60.22484pt x 50.58887pt.
 [26]
-<./figures//GEB.png, id=888, 592.614pt x 625.73775pt>
+<./figures//GEB.png, id=917, 592.614pt x 625.73775pt>
 File: ./figures//GEB.png Graphic file (type png)
 <use ./figures//GEB.png>
 Package pdftex.def Info: ./figures//GEB.png  used on input line 107.
 (pdftex.def)             Requested size: 213.39566pt x 225.32271pt.
-<./figures//exp.png, id=889, 690.1785pt x 350.5095pt>
+<./figures//exp.png, id=918, 690.1785pt x 350.5095pt>
 File: ./figures//exp.png Graphic file (type png)
 <use ./figures//exp.png>
 Package pdftex.def Info: ./figures//exp.png  used on input line 112.
 (pdftex.def)             Requested size: 213.39566pt x 108.37335pt.
-<./figures//map_call.png, id=890, 596.2275pt x 781.41937pt>
+<./figures//map_call.png, id=919, 596.2275pt x 781.41937pt>
 File: ./figures//map_call.png Graphic file (type png)
 <use ./figures//map_call.png>
 Package pdftex.def Info: ./figures//map_call.png  used on input line 124.
-(pdftex.def)             Requested size: 89.62904pt x 117.45824pt.
-<./figures//Call_uav.png, id=891, 918.43124pt x 612.78937pt>
+(pdftex.def)             Requested size: 213.39566pt x 279.67725pt.
+<./figures//Call_uav.png, id=920, 918.43124pt x 612.78937pt>
 File: ./figures//Call_uav.png Graphic file (type png)
 <use ./figures//Call_uav.png>
 Package pdftex.def Info: ./figures//Call_uav.png  used on input line 129.
-(pdftex.def)             Requested size: 110.9634pt x 74.03647pt.
-<./figures//uav.png, id=892, 1156.32pt x 650.43pt>
+(pdftex.def)             Requested size: 213.39566pt x 142.37854pt.
+<./figures//uav.png, id=921, 1156.32pt x 650.43pt>
 File: ./figures//uav.png Graphic file (type png)
 <use ./figures//uav.png>
 Package pdftex.def Info: ./figures//uav.png  used on input line 139.
@@ -1896,35 +1953,40 @@ File: NCUlogo.jpg Graphic file (type jpg)
 <use NCUlogo.jpg>
 Package pdftex.def Info: NCUlogo.jpg  used on input line 153.
 (pdftex.def)             Requested size: 60.22484pt x 50.58887pt.
- [28 <./figures//GEB.png> <./figures//exp.png> <./figures//map_call.png> <./fig
-ures//Call_uav.png>]
+ [28 <./figures//GEB.png> <./figures//exp.png>]
 File: NCUlogo.jpg Graphic file (type jpg)
 <use NCUlogo.jpg>
-Package pdftex.def Info: NCUlogo.jpg  used on input line 171.
+Package pdftex.def Info: NCUlogo.jpg  used on input line 153.
 (pdftex.def)             Requested size: 60.22484pt x 50.58887pt.
- [29 <./figures//uav.png>]
+ [29 <./figures//map_call.png> <./figures//Call_uav.png> <./figures//uav.png>]
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<./figures//MRSIS-TSP-cov.png, id=947, 578.16pt x 578.16pt>
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<./figures//MRSIS-TSP-cov.png, id=977, 578.16pt x 578.16pt>
 File: ./figures//MRSIS-TSP-cov.png Graphic file (type png)
 <use ./figures//MRSIS-TSP-cov.png>
 Package pdftex.def Info: ./figures//MRSIS-TSP-cov.png  used on input line 254.
 (pdftex.def)             Requested size: 192.0548pt x 192.05493pt.
-<./figures//MRSM-cov.png, id=950, 578.16pt x 578.16pt>
+<./figures//MRSM-cov.png, id=980, 578.16pt x 578.16pt>
 File: ./figures//MRSM-cov.png Graphic file (type png)
 <use ./figures//MRSM-cov.png>
 Package pdftex.def Info: ./figures//MRSM-cov.png  used on input line 261.
 (pdftex.def)             Requested size: 192.0548pt x 192.05493pt.
-<./figures//MRSIS-TSP.png, id=951, 505.89pt x 433.62pt>
+<./figures//MRSIS-TSP.png, id=981, 505.89pt x 433.62pt>
 File: ./figures//MRSIS-TSP.png Graphic file (type png)
 <use ./figures//MRSIS-TSP.png>
 Package pdftex.def Info: ./figures//MRSIS-TSP.png  used on input line 272.
 (pdftex.def)             Requested size: 192.0548pt x 164.61852pt.
-<./figures//MRSM.png, id=954, 505.89pt x 433.62pt>
+<./figures//MRSM.png, id=984, 505.89pt x 433.62pt>
 File: ./figures//MRSM.png Graphic file (type png)
 <use ./figures//MRSM.png>
 Package pdftex.def Info: ./figures//MRSM.png  used on input line 279.
@@ -1953,33 +2015,33 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 
 File: NCUlogo.jpg Graphic file (type jpg)
 <use NCUlogo.jpg>
-Package pdftex.def Info: NCUlogo.jpg  used on input line 460.
+Package pdftex.def Info: NCUlogo.jpg  used on input line 449.
 (pdftex.def)             Requested size: 60.22484pt x 50.58887pt.
 [30]
 File: NCUlogo.jpg Graphic file (type jpg)
 <use NCUlogo.jpg>
-Package pdftex.def Info: NCUlogo.jpg  used on input line 460.
+Package pdftex.def Info: NCUlogo.jpg  used on input line 449.
 (pdftex.def)             Requested size: 60.22484pt x 50.58887pt.
  [31 <./figures//MRSIS-TSP-cov.png> <./figures//MRSM-cov.png> <./figures//MRSIS
 -TSP.png> <./figures//MRSM.png>]
 File: NCUlogo.jpg Graphic file (type jpg)
 <use NCUlogo.jpg>
-Package pdftex.def Info: NCUlogo.jpg  used on input line 469.
+Package pdftex.def Info: NCUlogo.jpg  used on input line 460.
 (pdftex.def)             Requested size: 60.22484pt x 50.58887pt.
  [32]
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 486.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 486.
-
 File: NCUlogo.jpg Graphic file (type jpg)
 <use NCUlogo.jpg>
-Package pdftex.def Info: NCUlogo.jpg  used on input line 488.
+Package pdftex.def Info: NCUlogo.jpg  used on input line 478.
 (pdftex.def)             Requested size: 60.22484pt x 50.58887pt.
-[33]
+ [33]
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 486.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 486.
+
 
 LaTeX Warning: No positions in optional float specifier.
                Default added (so using `tbp') on input line 490.
@@ -2036,22 +2098,22 @@ Package pdftex.def Info: NCUlogo.jpg  used on input line 52.
 ]
 File: NCUlogo.jpg Graphic file (type jpg)
 <use NCUlogo.jpg>
-Package pdftex.def Info: NCUlogo.jpg  used on input line 102.
+Package pdftex.def Info: NCUlogo.jpg  used on input line 104.
 (pdftex.def)             Requested size: 60.22484pt x 50.58887pt.
  [40]
-Underfull \hbox (badness 1147) in paragraph at lines 142--147
+Underfull \hbox (badness 1147) in paragraph at lines 149--154
 \T1/cmr/m/n/14.4 strained rout-ing of het-ero-ge-neous teams with risky traver-
 sal.
  []
 
 File: NCUlogo.jpg Graphic file (type jpg)
 <use NCUlogo.jpg>
-Package pdftex.def Info: NCUlogo.jpg  used on input line 160.
+Package pdftex.def Info: NCUlogo.jpg  used on input line 154.
 (pdftex.def)             Requested size: 60.22484pt x 50.58887pt.
 [41]
 File: NCUlogo.jpg Graphic file (type jpg)
 <use NCUlogo.jpg>
-Package pdftex.def Info: NCUlogo.jpg  used on input line 212.
+Package pdftex.def Info: NCUlogo.jpg  used on input line 209.
 (pdftex.def)             Requested size: 60.22484pt x 50.58887pt.
  [42]))
 File: NCUlogo.jpg Graphic file (type jpg)
@@ -2063,20 +2125,20 @@ Package pdftex.def Info: NCUlogo.jpg  used on input line 122.
 (chapter3.aux) (chapter4.aux) (chapter5.aux) (chapter6.aux) (chapter7.aux)
 (bibli.aux))
 Package rerunfilecheck Info: File `masterthesisCJK.out' has not changed.
-(rerunfilecheck)             Checksum: FA12FBE98FA517D37C525EB40C0297D6;3665.
+(rerunfilecheck)             Checksum: 5DFD3A253AB9517D1F01CFF86155A11B;3803.
  ) 
 Here is how much of TeX's memory you used:
- 31068 strings out of 478354
- 560248 string characters out of 2853539
- 992812 words of memory out of 3000000
- 48385 multiletter control sequences out of 15000+600000
+ 31103 strings out of 478354
+ 560772 string characters out of 2853539
+ 991059 words of memory out of 3000000
+ 48413 multiletter control sequences out of 15000+600000
  526544 words of font info for 211 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 103i,18n,131p,992b,1890s stack positions out of 10000i,1000n,20000p,200000b,80000s
+ 103i,18n,131p,992b,1894s stack positions out of 10000i,1000n,20000p,200000b,80000s
  <C:\Users\RSL\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx10
 00.pk> <C:\Users\RSL\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ec
-ti1440.pk> <C:\Users\RSL\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi60
-0\ecrm0900.pk> <C:\Users\RSL\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/d
+rm0900.pk> <C:\Users\RSL\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi60
+0\ecti1440.pk> <C:\Users\RSL\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/d
 pi600\ecrm1728.pk> <C:\Users\RSL\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/
 ec/dpi600\ecss1728.pk> <C:\Users\RSL\AppData\Local\MiKTeX\fonts/pk/ljfour/jknap
 pen/ec/dpi600\ecrm0800.pk> <C:\Users\RSL\AppData\Local\MiKTeX\fonts/pk/ljfour/j
@@ -2144,9 +2206,9 @@ pe1/public/amsfonts/cm/cmsy8.pfb><C:/MiKTex/fonts/type1/public/amsfonts/cm/cmsy
 9.pfb><C:/MiKTex/fonts/type1/public/amsfonts/symbols/msam10.pfb><C:/MiKTex/font
 s/type1/public/amsfonts/symbols/msbm10.pfb><C:/MiKTex/fonts/type1/public/amsfon
 ts/symbols/msbm7.pfb>
-Output written on masterthesisCJK.pdf (55 pages, 9498765 bytes).
+Output written on masterthesisCJK.pdf (57 pages, 10392965 bytes).
 PDF statistics:
- 1977 PDF objects out of 2073 (max. 8388607)
- 181 named destinations out of 1000 (max. 500000)
- 611 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1993 PDF objects out of 2073 (max. 8388607)
+ 184 named destinations out of 1000 (max. 500000)
+ 659 words of extra memory for PDF output out of 10000 (max. 10000000)
 

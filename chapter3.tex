@@ -18,6 +18,32 @@ A function $f:2^N \rightarrow \mathbb{R}^+$ is submodular if and only if $\foral
 Let $S=\{1,2,3\}$ be the ground set and $S_A=\{1\}$, $S_B=\{1,2\}$ be two different sets selected from the ground set, i.e., $S_A \subseteq S_B \subseteq S$. In Fig. \ref{submodularity} (a)(b), if the submodular function $f$ is defined as the coverage function, $f(S_A)$ and $f(S_B)$ depict the regions observed by the camera FOV at locations of $\{1\}$ and $\{1,2\}$.
 When a new set $s=\{2\}$ is added to both $S_A$ and $S_B$, the marginal gain of the coverage function $f$ is the additional regions covered, which is the red dashed line area shown in Fig. \ref{submodularity}(c). The diminishing return property suggests that incorporating a set into the smaller set results in a greater marginal gain.\\
 
+\begin{figure}
+    \centering
+    \begin{subfigure}[b]{0.35\textwidth}
+        \includegraphics[width=1\textwidth]{cov-1.png}
+        \caption{$f(S_A)$}
+    \end{subfigure}
+    %\hfill
+    %\quad
+    \begin{subfigure}[b]{0.35\textwidth}
+    %\centering
+        \includegraphics[width=1\textwidth]{cov-2.png}
+        \caption{$f(S_B)$}
+    \end{subfigure}
+    \hfill
+
+    \begin{subfigure}[b]{0.8\textwidth}
+    \centering
+        \includegraphics[width=1\textwidth]{cov-12.png}
+        \caption{$f(S_A \cup s)-f(S_A) \geq f(S_B \cup s)-f(S_B)$ } \label{fig:AB-cov}
+    \end{subfigure}
+
+    \caption{Illustration of submodularity under coverage scenario. The geographical locations of sensors are denoted as decimal numbers, while the blue and gray areas correspond to the covered and uncovered regions, respectively. (a) $f(S_A)$ is the covered area of $S_A$, where $S_A=\{1\}$. (b) $f(S_B)$ is the covered area of $S_B$, where $S_B=\{1,2\}$. (c) The marginal gain of the coverage function $f$ is marked as red dashed lines when $s=\{3\}$ is added to the current set $S_A=\{1\}$ and $S_B=\{1,2\}$.
+    }
+    \label{submodularity}
+\end{figure}
+
 %\begin{figure}[htbp]
 % \begin{center}
 %\begin{subfigure}{.22\textwidth}

@@ -34,7 +34,7 @@ where $a \in \mathit{\mathbb{E}}$ is an $a \times a \times a (m.)$ search space,
 The robot's goal is to find all targets in scenarios of partial occlusion.
 
 A weighted graph $\mathcal{G}=(\mathcal{V}, \mathcal{E}, c)$ is constructed to represent the environment, where $\mathcal{V}$ is the subgoal set, $\mathcal{E}$ is the edge set, and $c$ is the routing costs with respect to edges.
-The subgoals $\mathcal{V}$ are evenly distributed throughout the space and each subgoal is defined as $v\in \{(x,y,z,\theta)|(x,y,z,\theta)\in \mathcal{V}\}$, where $x,y,z\in[1, e]$ and $\theta\in\{0,60,120,180,240,300\}$.
+The subgoals $\mathcal{V}$ are evenly distributed throughout the space and each subgoal is defined as $v\in \{(x,y,z,\theta)|(x,y,z,\theta)\in \mathcal{V}\}$, where $x,y,z\in[1, e]$ and $\theta\in\{0,60,120,\\180,240,300\}$.
 
 In the search process, each robot can take one of the actions from $\mathcal{A}=\{Move(x,y,z,\theta), Detect\}$.
 The $Move$ action takes the drone to the coordinate $(x,y,z)$ with the heading $\theta$.
@@ -120,11 +120,11 @@ Angular velocity & $45$ $deg/sec$ & $120$ $deg/sec$ \\
 
 \begin{figure}
   \centering
-  \begin{subfigure}[b]{0.21\textwidth}
+  \begin{subfigure}[b]{0.5\textwidth}
       \includegraphics[width=1\textwidth]{map_call.png}
       \caption{} \label{Call map}
   \end{subfigure}
-  \begin{subfigure}[b]{0.26\textwidth}
+  \begin{subfigure}[b]{0.5\textwidth}
   \centering
       \includegraphics[width=1\textwidth]{Call_uav.png}
       \caption{} \label{Call exp}
